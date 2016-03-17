@@ -1,0 +1,5031 @@
+PARENT	Mapped_gene
+Cancer	ABO
+Cancer	ACAD10
+Cancer	ACOXL
+Cancer	ACTA2
+Cancer	ADAM29
+Cancer	ADH1B
+Cancer	ADH7
+Cancer	ADIPOR1P1
+Cancer	AFG3L1P
+Cancer	AFM
+Cancer	AGAP7
+Cancer	ALDH2
+Cancer	ALS2CR12
+Cancer	ANKLE1
+Cancer	ANP32A
+Cancer	AP4B1
+Cancer	APOBEC3A
+Cancer	APOM
+Cancer	AQP4
+Cancer	AR
+Cancer	AREG
+Cancer	ARHGEF5
+Cancer	ARID5B
+Cancer	ARMC2
+Cancer	ASCL2
+Cancer	ASS1P11
+Cancer	ATF1
+Cancer	ATF7IP
+Cancer	ATM
+Cancer	ATP6V1G1P7
+Cancer	ATP9B
+Cancer	BABAM1
+Cancer	BACH1
+Cancer	BAG6
+Cancer	BAK1
+Cancer	BARD1
+Cancer	BCL2
+Cancer	BCL6
+Cancer	BET1L
+Cancer	BIK
+Cancer	BOD1
+Cancer	BPTF
+Cancer	BRCA2
+Cancer	BRIP1
+Cancer	BTC
+Cancer	BTNL2
+Cancer	C11orf21
+Cancer	C14orf119
+Cancer	C19orf12
+Cancer	C5orf66
+Cancer	C6orf10
+Cancer	CABLES2
+Cancer	CAMK2D
+Cancer	CASC11
+Cancer	CASC14
+Cancer	CASC15
+Cancer	CASC16
+Cancer	CASC17
+Cancer	CASC20
+Cancer	CASC8
+Cancer	CASP8
+Cancer	CBX6
+Cancer	CBX7
+Cancer	CCAT1
+Cancer	CCAT2
+Cancer	CCDC170
+Cancer	CCDC88C
+Cancer	CCDC91
+Cancer	CCHCR1
+Cancer	CCND1
+Cancer	CCND2
+Cancer	CCNE1
+Cancer	CCR12P
+Cancer	CDCA7
+Cancer	CDH1
+Cancer	CDK10
+Cancer	CDKN2A
+Cancer	CDKN2B-AS1
+Cancer	CDYL2
+Cancer	CEBPE
+Cancer	CENPE
+Cancer	CENPVP3
+Cancer	CFL1P6
+Cancer	CHCHD4P2
+Cancer	CHEK2
+Cancer	CHMP4C
+Cancer	CHRNA3
+Cancer	CHST9
+Cancer	CLDN11
+Cancer	CLPTM1L
+Cancer	COL6A3
+Cancer	COLCA1
+Cancer	COLCA2
+Cancer	CORO2B
+Cancer	COX5BP7
+Cancer	CSNK1A1
+Cancer	CTD-2194D22.4
+Cancer	CXorf67
+Cancer	CYCSP42
+Cancer	DAB2
+Cancer	DAZL
+Cancer	DCBLD1
+Cancer	DCLRE1B
+Cancer	DIP2B
+Cancer	DIRC3
+Cancer	DLX2
+Cancer	DMRT1
+Cancer	DMRTA1
+Cancer	DNAH11
+Cancer	DNAJC1
+Cancer	DPF1
+Cancer	DUSP10
+Cancer	EBF1
+Cancer	EBF2
+Cancer	EEFSEC
+Cancer	EGR2
+Cancer	EHBP1
+Cancer	EIF3H
+Cancer	ELL
+Cancer	EMBP1
+Cancer	EMID1
+Cancer	EOMES
+Cancer	EPAS1
+Cancer	ERBB4
+Cancer	ESR1
+Cancer	EXOC1
+Cancer	EXOC2
+Cancer	FAM19A5
+Cancer	FAM218A
+Cancer	FAM46A
+Cancer	FAM60DP
+Cancer	FARP2
+Cancer	FAS
+Cancer	FAT1P1
+Cancer	FERMT2
+Cancer	FGF10
+Cancer	FGF10-AS1
+Cancer	FGFR2
+Cancer	FGFR3P3
+Cancer	FLJ40194
+Cancer	FLJ41481
+Cancer	FLJ44006
+Cancer	FOXE1
+Cancer	FOXF2
+Cancer	FOXQ1
+Cancer	FTH1P2
+Cancer	FTO
+Cancer	GATA3
+Cancer	GATA3-AS1
+Cancer	GATA5
+Cancer	GEMIN8P1
+Cancer	GGCX
+Cancer	GLI2
+Cancer	GLULP5
+Cancer	GNAI2P1
+Cancer	GPBP1
+Cancer	GPR143
+Cancer	GRAMD1B
+Cancer	GREM1
+Cancer	GRHL1
+Cancer	GRIK1
+Cancer	GRM4
+Cancer	GSDMB
+Cancer	GSDMC
+Cancer	HACE1
+Cancer	HAP1
+Cancer	HEATR3
+Cancer	HECTD4
+Cancer	HELQ
+Cancer	HIGD1AP6
+Cancer	HMGB3P4
+Cancer	HMGN2P32
+Cancer	HNF1B
+Cancer	HNF4G
+Cancer	HOXD-AS1
+Cancer	HPGDS
+Cancer	HSD17B12
+Cancer	HYKK
+Cancer	IFITM9P
+Cancer	IGFBP2
+Cancer	IKZF1
+Cancer	IL13
+Cancer	INHBB
+Cancer	IPCEF1
+Cancer	IRF4
+Cancer	IRF8
+Cancer	ISCA1P2
+Cancer	ITGA6
+Cancer	ITPR1
+Cancer	ITPR2
+Cancer	JAK2
+Cancer	JUP
+Cancer	KCND3
+Cancer	KCNN3
+Cancer	KCNN4
+Cancer	KHSRPP1
+Cancer	KIF1B
+Cancer	KITLG
+Cancer	KLF4
+Cancer	KLK2
+Cancer	KLK3
+Cancer	KRT18P13
+Cancer	KRT18P42
+Cancer	KRT78
+Cancer	LAMA5
+Cancer	LEF1
+Cancer	LEPREL1
+Cancer	LGR6
+Cancer	LILRA5
+Cancer	LIMA1
+Cancer	LIN28B
+Cancer	LINC-PINT
+Cancer	LINC00327
+Cancer	LINC00506
+Cancer	LINC00536
+Cancer	LINC00589
+Cancer	LINC00690
+Cancer	LINC00709
+Cancer	LINC00867
+Cancer	LINC00977
+Cancer	LINC01101
+Cancer	LINC01105
+Cancer	LINC01153
+Cancer	LINC01185
+Cancer	LINC01247
+Cancer	LINC01263
+Cancer	LMO1
+Cancer	LMTK2
+Cancer	LOC100131315
+Cancer	LOC100996521
+Cancer	LOC101927688
+Cancer	LOC101928292
+Cancer	LOC101929072
+Cancer	LOC101929491
+Cancer	LOC101930033
+Cancer	LOC102723469
+Cancer	LOC102723593
+Cancer	LOC102723767
+Cancer	LOC102724137
+Cancer	LOC102724265
+Cancer	LOC102724351
+Cancer	LOC102724536
+Cancer	LOC102724596
+Cancer	LPP-AS2
+Cancer	LRFN2
+Cancer	LSM1P1
+Cancer	LSP1
+Cancer	MAD1L1
+Cancer	MAN2A1
+Cancer	MAP3K1
+Cancer	MARK2P12
+Cancer	MBIP
+Cancer	MC1R
+Cancer	MCM3AP
+Cancer	MCUR1
+Cancer	MDM4
+Cancer	MECOM
+Cancer	MICA
+Cancer	MIER3
+Cancer	MIPEP
+Cancer	MIR1208
+Cancer	MIR3164
+Cancer	MIR3662
+Cancer	MIR3686
+Cancer	MIR4457
+Cancer	MIR4686
+Cancer	MIR4752
+Cancer	MIR4757
+Cancer	MIR5580
+Cancer	MIR6129
+Cancer	MIR8056
+Cancer	MIR944
+Cancer	MKL1
+Cancer	MLLT10
+Cancer	MLPH
+Cancer	MMP7
+Cancer	MRPS30
+Cancer	MSMB
+Cancer	MTAP
+Cancer	MTMR3
+Cancer	MX2
+Cancer	MYB
+Cancer	MYEOV
+Cancer	MYNN
+Cancer	NAA25
+Cancer	NABP1
+Cancer	NAT2
+Cancer	NDFIP1
+Cancer	NEK10
+Cancer	NFE2L3P1
+Cancer	NKX2-3
+Cancer	NKX3-1
+Cancer	NOTCH4
+Cancer	NR1H4
+Cancer	NR5A2
+Cancer	NRG1
+Cancer	NRIP1
+Cancer	NSF
+Cancer	NUDT11
+Cancer	NXN
+Cancer	ODF1
+Cancer	OPHN1
+Cancer	OPRM1
+Cancer	OR10Q2P
+Cancer	OR5AL1
+Cancer	OR5AL2P
+Cancer	OSTF1P1
+Cancer	OVOL1-AS1
+Cancer	PADI6
+Cancer	PAPOLG
+Cancer	PAX9
+Cancer	PCAT18
+Cancer	PCAT19
+Cancer	PDE4D
+Cancer	PDLIM5
+Cancer	PEX14
+Cancer	PGAM1P5
+Cancer	PHLDB1
+Cancer	PIGU
+Cancer	PIP4K2A
+Cancer	PITX1
+Cancer	PLA2G6
+Cancer	PLCE1
+Cancer	PLEKHM1
+Cancer	PMAIP1
+Cancer	POLD3
+Cancer	POT1
+Cancer	POU5F1P2
+Cancer	PPATP1
+Cancer	PPP1R14A
+Cancer	PRDM14
+Cancer	PRKAA1
+Cancer	PRKD2
+Cancer	PRLHR
+Cancer	PRNCR1
+Cancer	PRPH
+Cancer	PSCA
+Cancer	PSD3
+Cancer	PSMB3P2
+Cancer	PSORS1C1
+Cancer	PSORS1C2
+Cancer	PTCSC3
+Cancer	PTHLH
+Cancer	PTPN2
+Cancer	PYGL
+Cancer	QRSL1P2
+Cancer	RAD23B
+Cancer	RAD51B
+Cancer	RALB
+Cancer	RALY
+Cancer	RANBP9
+Cancer	RAP1BP3
+Cancer	RBBP8NL
+Cancer	RFWD3
+Cancer	RFX6
+Cancer	RGS17
+Cancer	RGS22
+Cancer	RHPN2
+Cancer	RNA5SP299
+Cancer	RNA5SP357
+Cancer	RNA5SP358
+Cancer	RNF146
+Cancer	RNU6-66P
+Cancer	RNU7-89P
+Cancer	RNY1P8
+Cancer	RNY4P3
+Cancer	RPL10P14
+Cancer	RPL17P25
+Cancer	RPL17P33
+Cancer	RPL18P9
+Cancer	RPL21P51
+Cancer	RPL23AP59
+Cancer	RPL23AP61
+Cancer	RPL26P19
+Cancer	RPL30P11
+Cancer	RPL31P42
+Cancer	RPL34P31
+Cancer	RPL36AP6
+Cancer	RPL36P14
+Cancer	RPL5P15
+Cancer	RPL7P41
+Cancer	RPL7P45
+Cancer	RPLP1
+Cancer	RPS11P1
+Cancer	RPS25P10
+Cancer	RPS26P30
+Cancer	RPS27P20
+Cancer	RPS2P18
+Cancer	RPS3AP46
+Cancer	RTEL1
+Cancer	RTEL1-TNFRSF6B
+Cancer	RUNX1
+Cancer	SALL3
+Cancer	SCARB1
+Cancer	SCG5
+Cancer	SDPR
+Cancer	SEMA6D
+Cancer	SETD9
+Cancer	SHROOM2
+Cancer	SIDT1
+Cancer	SKAP1
+Cancer	SKIL
+Cancer	SLC14A1
+Cancer	SLC17A8
+Cancer	SLC22A1
+Cancer	SLC22A2
+Cancer	SLC22A3
+Cancer	SLC25A28
+Cancer	SLC25A44
+Cancer	SLC39A6
+Cancer	SLC4A7
+Cancer	SMAD7
+Cancer	SMG6
+Cancer	SNX32
+Cancer	SP110
+Cancer	SP140
+Cancer	SPRY4
+Cancer	SQRDL
+Cancer	SRP14-AS1
+Cancer	SRRM1P1
+Cancer	SRSF10P2
+Cancer	SSPN
+Cancer	ST6GAL1
+Cancer	STAT4
+Cancer	STK35
+Cancer	STXBP4
+Cancer	TAB2
+Cancer	TACC3
+Cancer	TBX3
+Cancer	TBX5
+Cancer	TBX5-AS1
+Cancer	TCF7L2
+Cancer	TERT
+Cancer	TET2
+Cancer	TFF1
+Cancer	TFF2
+Cancer	TGFBR2
+Cancer	TGM3
+Cancer	THADA
+Cancer	TIPARP
+Cancer	TMEM45B
+Cancer	TNFRSF13B
+Cancer	TNFRSF19
+Cancer	TNP1
+Cancer	TNRC6B
+Cancer	TOX3
+Cancer	TP53
+Cancer	TP63
+Cancer	TRIM8
+Cancer	TRNAI25
+Cancer	TUBA1C
+Cancer	TUFMP1
+Cancer	TYR
+Cancer	UBA52P6
+Cancer	UBA52P7
+Cancer	UCK2
+Cancer	ULK4
+Cancer	USP44
+Cancer	UST
+Cancer	VAMP8
+Cancer	VPS53
+Cancer	VTI1A
+Cancer	XBP1
+Cancer	XXYLT1
+Cancer	YWHAZP5
+Cancer	ZBTB20
+Cancer	ZBTB38
+Cancer	ZEB2
+Cancer	ZGPAT
+Cancer	ZMIZ1
+Cancer	ZMIZ1-AS1
+Cancer	ZNF365
+Cancer	ZNF652
+Cancer	ZPBP2
+Cardiovascular	ABO
+Cardiovascular	ACAD10
+Cardiovascular	ACTL8
+Cardiovascular	ACYP2
+Cardiovascular	ADAM29
+Cardiovascular	ADAMTS7
+Cardiovascular	AGAP5
+Cardiovascular	AK4
+Cardiovascular	ALDH2
+Cardiovascular	ANKS1A
+Cardiovascular	APOC1
+Cardiovascular	ARHGEF28
+Cardiovascular	ASB3
+Cardiovascular	ATP2B1
+Cardiovascular	ATXN2
+Cardiovascular	BAG3
+Cardiovascular	BAZ2B
+Cardiovascular	BCAP29
+Cardiovascular	BOLL
+Cardiovascular	BRAP
+Cardiovascular	BSND
+Cardiovascular	C12orf55
+Cardiovascular	C1orf21
+Cardiovascular	C6orf10
+Cardiovascular	C9orf3
+Cardiovascular	CA12
+Cardiovascular	CALM2P1
+Cardiovascular	CASC17
+Cardiovascular	CAV1
+Cardiovascular	CBLN2
+Cardiovascular	CCDC71L
+Cardiovascular	CCR4
+Cardiovascular	CDH10
+Cardiovascular	CDK17
+Cardiovascular	CDK5PS
+Cardiovascular	CDKN2B-AS1
+Cardiovascular	CELSR2
+Cardiovascular	CHRM3
+Cardiovascular	CISD1P1
+Cardiovascular	CNNM2
+Cardiovascular	COL4A1
+Cardiovascular	COL4A2
+Cardiovascular	CTBP2P4
+Cardiovascular	CXCL12
+Cardiovascular	DAB2IP
+Cardiovascular	DDX18P4
+Cardiovascular	DLC1
+Cardiovascular	DMRTA1
+Cardiovascular	DNM1P37
+Cardiovascular	EDNRA
+Cardiovascular	EEF1A1P43
+Cardiovascular	EFEMP1
+Cardiovascular	ESR1
+Cardiovascular	ESR2
+Cardiovascular	F11
+Cardiovascular	F5
+Cardiovascular	FAM228A
+Cardiovascular	FBN1
+Cardiovascular	FBXO15
+Cardiovascular	FGA
+Cardiovascular	FGF14
+Cardiovascular	FGF14-IT1
+Cardiovascular	FGF18
+Cardiovascular	FGG
+Cardiovascular	FLRT2
+Cardiovascular	GALC
+Cardiovascular	GLRA3
+Cardiovascular	GORAB
+Cardiovascular	GPR26
+Cardiovascular	GRIA1
+Cardiovascular	GTSCR1
+Cardiovascular	GUCY1A3
+Cardiovascular	HCN4
+Cardiovascular	HDAC9
+Cardiovascular	HECTD4
+Cardiovascular	HHIPL1
+Cardiovascular	HRH2
+Cardiovascular	IGSF21
+Cardiovascular	IPO11-LRRC70
+Cardiovascular	IRX1
+Cardiovascular	ISCA1P1
+Cardiovascular	KCNE2
+Cardiovascular	KCNN2
+Cardiovascular	KCNN3
+Cardiovascular	KCTD1
+Cardiovascular	KIAA1462
+Cardiovascular	KLF12
+Cardiovascular	KRT19P1
+Cardiovascular	LAMA1
+Cardiovascular	LDLR
+Cardiovascular	LINC00290
+Cardiovascular	LINC00310
+Cardiovascular	LINC00472
+Cardiovascular	LINC00841
+Cardiovascular	LINC00877
+Cardiovascular	LINC01020
+Cardiovascular	LIPA
+Cardiovascular	LOC102723686
+Cardiovascular	LPA
+Cardiovascular	LRAT
+Cardiovascular	LRP1
+Cardiovascular	LRRTM1
+Cardiovascular	LYRM4
+Cardiovascular	MAML2
+Cardiovascular	MGC45800
+Cardiovascular	MGLL
+Cardiovascular	MIA3
+Cardiovascular	MIR297
+Cardiovascular	MIR4431
+Cardiovascular	MIR4693
+Cardiovascular	MRAS
+Cardiovascular	MRPS36P3
+Cardiovascular	MTHFD1L
+Cardiovascular	MTND1P22
+Cardiovascular	MTND1P36
+Cardiovascular	MTND4P25
+Cardiovascular	MYL2
+Cardiovascular	NAALADL2
+Cardiovascular	NINJ2
+Cardiovascular	NME7
+Cardiovascular	OSR1
+Cardiovascular	PAPPA2
+Cardiovascular	PCMTD1
+Cardiovascular	PCSK9
+Cardiovascular	PHACTR1
+Cardiovascular	PHLDA1
+Cardiovascular	PINX1
+Cardiovascular	PITX2
+Cardiovascular	PLXNA4
+Cardiovascular	PMF1
+Cardiovascular	PMF1-BGLAP
+Cardiovascular	PPAP2B
+Cardiovascular	PRDM9
+Cardiovascular	PRMT5P1
+Cardiovascular	PRRX1
+Cardiovascular	PSRC1
+Cardiovascular	RAI1
+Cardiovascular	RNA5SP236
+Cardiovascular	RNU105C
+Cardiovascular	RNU5A-4P
+Cardiovascular	RNY1P5
+Cardiovascular	RP1
+Cardiovascular	RPL10P13
+Cardiovascular	RPL18P11
+Cardiovascular	RPL35AP22
+Cardiovascular	RPS26P39
+Cardiovascular	RPS4XP18
+Cardiovascular	RSAD2
+Cardiovascular	SCML2P1
+Cardiovascular	SEC11B
+Cardiovascular	SERPINB6
+Cardiovascular	SERPINB9
+Cardiovascular	SFXN1
+Cardiovascular	SMARCA4
+Cardiovascular	SMG6
+Cardiovascular	SMIM23
+Cardiovascular	SNORA70C
+Cardiovascular	SOX17
+Cardiovascular	STARD13
+Cardiovascular	STX18-AS1
+Cardiovascular	SURF6
+Cardiovascular	SYNE2
+Cardiovascular	SYNPO2L
+Cardiovascular	TCF21
+Cardiovascular	TRIM71
+Cardiovascular	TRNAI25
+Cardiovascular	TRNAK6
+Cardiovascular	TSEN15
+Cardiovascular	TWIST1
+Cardiovascular	UBA52P6
+Cardiovascular	UBE2CP2
+Cardiovascular	UBE2Z
+Cardiovascular	UMOD
+Cardiovascular	USP3
+Cardiovascular	VDAC1P12
+Cardiovascular	WDR12
+Cardiovascular	WDR63
+Cardiovascular	WNK1
+Cardiovascular	YEATS4
+Cardiovascular	YTHDC2
+Cardiovascular	ZBTB17
+Cardiovascular	ZC3H3
+Cardiovascular	ZC3HC1
+Cardiovascular	ZFHX3
+Cardiovascular	ZNF385B
+Cardiovascular	ZPR1
+Digestive	ABCG5
+Digestive	ABCG8
+Digestive	ADAM30
+Digestive	ADCY3
+Digestive	ADRA1B
+Digestive	AIMP1P2
+Digestive	ALDH7A1P4
+Digestive	ANKRD55
+Digestive	APEH
+Digestive	APOA1
+Digestive	AQP12B
+Digestive	ARHGAP31
+Digestive	ARL2BPP4
+Digestive	ATG16L1
+Digestive	ATXN2
+Digestive	ATXN2L
+Digestive	AUH
+Digestive	BACH2
+Digestive	BANK1
+Digestive	BCL2L11
+Digestive	BNIP1
+Digestive	BOD1
+Digestive	BSN
+Digestive	BTF3L4P3
+Digestive	BTNL2
+Digestive	C10orf55
+Digestive	C11orf30
+Digestive	C15orf53
+Digestive	C1orf106
+Digestive	C20orf62
+Digestive	C21orf33
+Digestive	C3orf79
+Digestive	C5orf56
+Digestive	C5orf66
+Digestive	C7orf72
+Digestive	C9orf91
+Digestive	CARD9
+Digestive	CASP3P1
+Digestive	CCDC85B
+Digestive	CCHCR1
+Digestive	CCL2
+Digestive	CCL7
+Digestive	CCNY
+Digestive	CCR1
+Digestive	CCR4
+Digestive	CD226
+Digestive	CD40
+Digestive	CD6
+Digestive	CDC37
+Digestive	CDH3
+Digestive	CDKAL1
+Digestive	CEBPA
+Digestive	CEBPB
+Digestive	CEP72
+Digestive	CEP76
+Digestive	CHP1
+Digestive	CLN3
+Digestive	COTL1
+Digestive	COX6B1P6
+Digestive	COX6CP2
+Digestive	CPEB4
+Digestive	CPSF3L
+Digestive	CRTC3
+Digestive	CSF2
+Digestive	CTH
+Digestive	CUL2
+Digestive	CXCL5
+Digestive	CXCR1
+Digestive	CXCR2
+Digestive	CXCR5
+Digestive	CYCSP42
+Digestive	DAP
+Digestive	DENND1B
+Digestive	DLD
+Digestive	DNMT3A
+Digestive	DNMT3B
+Digestive	DUSP16
+Digestive	EIF2S2P3
+Digestive	ELF1
+Digestive	EPO
+Digestive	ERAP2
+Digestive	ETS1
+Digestive	FABP3P2
+Digestive	FAM213B
+Digestive	FAP
+Digestive	FCAR
+Digestive	FCGR2A
+Digestive	FEN1
+Digestive	FENDRR
+Digestive	FGFR1OP
+Digestive	FGFR1OP2P1
+Digestive	FIBP
+Digestive	FLJ31356
+Digestive	FLT1P1
+Digestive	FNDC1
+Digestive	FOS
+Digestive	FOSL2
+Digestive	FOXD1
+Digestive	FTH1P3
+Digestive	FUCA2
+Digestive	FUT2
+Digestive	GCKR
+Digestive	GLB1
+Digestive	GNA12
+Digestive	GOT1
+Digestive	GPR183
+Digestive	GPR35
+Digestive	GPR65
+Digestive	GRB7
+Digestive	GSDMB
+Digestive	GSDMC
+Digestive	HDAC7
+Digestive	HHEX
+Digestive	HLA-DQA1
+Digestive	HMGB3P5
+Digestive	HNRNPA1P41
+Digestive	HNRNPA1P46
+Digestive	HNRNPA1P70
+Digestive	HORMAD2
+Digestive	HOXA11-AS
+Digestive	HOXA13
+Digestive	ICOS
+Digestive	ICOSLG
+Digestive	IFIH1
+Digestive	IFNG
+Digestive	IFNGR2
+Digestive	IKZF1
+Digestive	IKZF3
+Digestive	IL10
+Digestive	IL12A-AS1
+Digestive	IL17REL
+Digestive	IL18R1
+Digestive	IL18RAP
+Digestive	IL1R1
+Digestive	IL1R2
+Digestive	IL2
+Digestive	IL21
+Digestive	IL23R
+Digestive	IL27
+Digestive	IL2RA
+Digestive	IL3
+Digestive	IL7R
+Digestive	IPMK
+Digestive	IRF5
+Digestive	IRGM
+Digestive	ITGAL
+Digestive	ITLN1
+Digestive	ITLN2
+Digestive	JAK2
+Digestive	JAZF1
+Digestive	KCNH8
+Digestive	KCP
+Digestive	KIAA1109
+Digestive	KIR3DL2
+Digestive	KPNA7
+Digestive	KSR1
+Digestive	LACC1
+Digestive	LIF
+Digestive	LINC00492
+Digestive	LINC00581
+Digestive	LINC00598
+Digestive	LINC00603
+Digestive	LINC00861
+Digestive	LINC00917
+Digestive	LINC00977
+Digestive	LINC01082
+Digestive	LINC01108
+Digestive	LINC01164
+Digestive	LINC01248
+Digestive	LINC01249
+Digestive	LINC01258
+Digestive	LINC01263
+Digestive	LOC100996583
+Digestive	LOC101927156
+Digestive	LOC101927324
+Digestive	LOC101927840
+Digestive	LOC101928822
+Digestive	LOC101929137
+Digestive	LOC101929163
+Digestive	LOC102723651
+Digestive	LOC102723878
+Digestive	LOC285626
+Digestive	LPP
+Digestive	LPXN
+Digestive	LRRC32
+Digestive	LRRK2
+Digestive	LSP1
+Digestive	LTA
+Digestive	MAGOH3P
+Digestive	MAML2
+Digestive	MAMSTR
+Digestive	MAP3K8
+Digestive	MBNL1
+Digestive	MIR1208
+Digestive	MIR1237
+Digestive	MIR3646
+Digestive	MIR3686
+Digestive	MIR3939
+Digestive	MIR4418
+Digestive	MIR4425
+Digestive	MIR4456
+Digestive	MIR4743
+Digestive	MIR4772
+Digestive	MIR5192
+Digestive	MIR548H2
+Digestive	MIR6727
+Digestive	MIR6731
+Digestive	MIR6774
+Digestive	MLN
+Digestive	MMEL1
+Digestive	MORC4
+Digestive	MROH3P
+Digestive	MRPL11P2
+Digestive	MRPS17P5
+Digestive	MRPS33P2
+Digestive	MRPS35P3
+Digestive	MST1
+Digestive	MTND4P6
+Digestive	MUC19
+Digestive	NDFIP1
+Digestive	NFKB1
+Digestive	NKX2-3
+Digestive	NOD2
+Digestive	NOTCH2
+Digestive	NR5A2
+Digestive	NRBP1
+Digestive	NRIP1
+Digestive	NXPE1
+Digestive	OSGIN2
+Digestive	OTUD3
+Digestive	P2RY2
+Digestive	PARK7
+Digestive	PDGFB
+Digestive	PER3
+Digestive	PHACTR2
+Digestive	PHTF1
+Digestive	PIGCP2
+Digestive	PLAU
+Digestive	PLCL1
+Digestive	PLEK
+Digestive	PNKD
+Digestive	PNPLA3
+Digestive	POP7
+Digestive	PPBP
+Digestive	PPP5C
+Digestive	PRDM1
+Digestive	PRDX2P2
+Digestive	PRKCB
+Digestive	PRM1
+Digestive	PRM2
+Digestive	PROCR
+Digestive	PRSS1
+Digestive	PTGER4
+Digestive	PTGIR
+Digestive	PTPN2
+Digestive	PTPN22
+Digestive	PTPRK
+Digestive	PTRF
+Digestive	PUS10
+Digestive	PUSL1
+Digestive	RAD23BP1
+Digestive	RASGRP1
+Digestive	RBX1
+Digestive	REXO2
+Digestive	RGS1
+Digestive	RGS14
+Digestive	RGS18
+Digestive	RGS21
+Digestive	RIT1
+Digestive	RMI2
+Digestive	RNA5SP22
+Digestive	RNASET2
+Digestive	RNF186
+Digestive	RNFT1P2
+Digestive	RNU4ATAC2P
+Digestive	RORC
+Digestive	RPL11P2
+Digestive	RPL12P7
+Digestive	RPL13P2
+Digestive	RPL15P16
+Digestive	RPL21P42
+Digestive	RPL23AP12
+Digestive	RPL3
+Digestive	RPL30P13
+Digestive	RPL35P3
+Digestive	RPL36AP25
+Digestive	RPL6P17
+Digestive	RPL7AP33
+Digestive	RPS14P1
+Digestive	RPS14P4
+Digestive	RPS15AP15
+Digestive	RPS21P8
+Digestive	RPS3AP51
+Digestive	RPS9P2
+Digestive	RPSAP64
+Digestive	RSPO3
+Digestive	RTEL1
+Digestive	RTEL1-TNFRSF6B
+Digestive	RTN4RL2
+Digestive	SATB2
+Digestive	SBNO2
+Digestive	SBSPON
+Digestive	SCAMP3
+Digestive	SCARNA5
+Digestive	SFMBT1
+Digestive	SKAP2
+Digestive	SLAIN2
+Digestive	SLC22A11
+Digestive	SLC22A23
+Digestive	SLC25A38P1
+Digestive	SLC39A11
+Digestive	SLC43A3
+Digestive	SLC7A10
+Digestive	SLC9A4
+Digestive	SMAD3
+Digestive	SMAD7
+Digestive	SMIM3
+Digestive	SMNDC1
+Digestive	SMURF1
+Digestive	SP140
+Digestive	SPRED2
+Digestive	ST7-OT3
+Digestive	STAT3
+Digestive	STAT4
+Digestive	SUCNR1
+Digestive	SYK
+Digestive	TAGAP
+Digestive	TCERG1L
+Digestive	TCF4
+Digestive	THADA
+Digestive	TLDC1
+Digestive	TM9SF4
+Digestive	TMBIM1
+Digestive	TMED10
+Digestive	TMEM17
+Digestive	TMEM174
+Digestive	TMEM258
+Digestive	TNF
+Digestive	TNFAIP3
+Digestive	TNFRSF14
+Digestive	TNFRSF6B
+Digestive	TNFSF11
+Digestive	TNFSF15
+Digestive	TNFSF18
+Digestive	TNFSF8
+Digestive	TRAF3IP2-AS1
+Digestive	TRIB1
+Digestive	TRNAG25
+Digestive	TRNAI25
+Digestive	TSLP
+Digestive	TSPAN14
+Digestive	TUBD1
+Digestive	TYK2
+Digestive	UBAC2
+Digestive	UBE2L3
+Digestive	ZBTB40
+Digestive	ZFP36L1
+Digestive	ZFP90
+Digestive	ZGPAT
+Digestive	ZMIZ1
+Digestive	ZNF300
+Digestive	ZNF365
+Digestive	ZNF831
+Digestive	ZPBP2
+Immune	ABCF1
+Immune	ABO
+Immune	ACOXL
+Immune	ACTL9
+Immune	ACTRT2
+Immune	ADAD1
+Immune	ADAMTS10
+Immune	ADCK4
+Immune	ADPRH
+Immune	ADRA1B
+Immune	AFF1
+Immune	AFF3
+Immune	AGAP2
+Immune	AHI1
+Immune	AIRE
+Immune	ALS2CR12
+Immune	ANKRD55
+Immune	ANO6
+Immune	ANO8
+Immune	ANXA3
+Immune	ANXA6
+Immune	AP5B1
+Immune	APOM
+Immune	ARID5B
+Immune	ASCL2
+Immune	ATG5
+Immune	ATXN2
+Immune	BACH2
+Immune	BAG6
+Immune	BANK1
+Immune	BATF
+Immune	BLK
+Immune	BTF3L4P3
+Immune	BTNL2
+Immune	C11orf30
+Immune	C14orf177
+Immune	C14orf64
+Immune	C1GALT1C1
+Immune	C1QTNF6
+Immune	C1orf106
+Immune	C1orf21
+Immune	C2
+Immune	C2orf91
+Immune	C5orf30
+Immune	C6orf10
+Immune	C7orf72
+Immune	CARD11
+Immune	CASP7
+Immune	CAST
+Immune	CBLB
+Immune	CCDC80
+Immune	CCL21
+Immune	CCR1
+Immune	CCR6
+Immune	CCR7
+Immune	CD200R1L
+Immune	CD226
+Immune	CD247
+Immune	CD28
+Immune	CD40
+Immune	CD5
+Immune	CD58
+Immune	CD6
+Immune	CD69
+Immune	CD80
+Immune	CD83
+Immune	CD86
+Immune	CDH22
+Immune	CDH23
+Immune	CDK12
+Immune	CDK5RAP2
+Immune	CDK6
+Immune	CDKN1B
+Immune	CDKN2AIPNLP3
+Immune	CENPU
+Immune	CENPW
+Immune	CEP76
+Immune	CLEC16A
+Immune	CLECL1
+Immune	CLNK
+Immune	CMC1
+Immune	COBL
+Immune	CREBL2
+Immune	CRNN
+Immune	CSF2
+Immune	CSRP2P
+Immune	CTLA4
+Immune	CTRB1
+Immune	CTRB2
+Immune	CTSH
+Immune	CXCR5
+Immune	CYCSP20
+Immune	CYP24A1
+Immune	CYP27B1
+Immune	DDA1
+Immune	DDX10P1
+Immune	DDX6
+Immune	DGUOK-AS1
+Immune	DKFZp667F0711
+Immune	DKKL1
+Immune	DPP4
+Immune	DRAM1
+Immune	EDEM3
+Immune	EDIL3
+Immune	EFR3B
+Immune	ELF1
+Immune	EOMES
+Immune	ERAP1
+Immune	ERBB3
+Immune	ETS1
+Immune	EVI5
+Immune	EXOC2
+Immune	EXOC6
+Immune	EXTL2
+Immune	FADS2
+Immune	FAM107A
+Immune	FAM167A
+Immune	FAM98B
+Immune	FANCA
+Immune	FAP
+Immune	FBXL19
+Immune	FBXO48
+Immune	FCGR2A
+Immune	FCRL3
+Immune	FGFR3P2
+Immune	FLG-AS1
+Immune	FLI1
+Immune	FLT1P1
+Immune	FMR1
+Immune	FMR1NB
+Immune	FNDC1
+Immune	FOXA1
+Immune	GAB3
+Immune	GAPDHP64
+Immune	GATA3
+Immune	GATSL3
+Immune	GEMIN8P1
+Immune	GLB1
+Immune	GLIS3
+Immune	GPR174
+Immune	GPR19
+Immune	GPSM3
+Immune	GRHL2
+Immune	GSDMB
+Immune	GTF2I
+Immune	GTF3AP1
+Immune	GZMB
+Immune	HCG9
+Immune	HCP5
+Immune	HERC2
+Immune	HHEX
+Immune	HIP1
+Immune	HLA-C
+Immune	HLA-DPA1
+Immune	HLA-DPB1
+Immune	HLA-DQA1
+Immune	HLA-DQB2
+Immune	HLA-DRA
+Immune	HLA-F
+Immune	HLA-F-AS1
+Immune	HLA-J
+Immune	HMGN2P27
+Immune	HSPA8P14
+Immune	IFIH1
+Immune	IFNGR2
+Immune	IGF2
+Immune	IGF2-AS
+Immune	IKZF1
+Immune	IKZF4
+Immune	IL10
+Immune	IL12B
+Immune	IL12RB2
+Immune	IL13
+Immune	IL18R1
+Immune	IL1RL1
+Immune	IL1RL2
+Immune	IL20RA
+Immune	IL22RA2
+Immune	IL23R
+Immune	IL27
+Immune	IL2RA
+Immune	IL6R
+Immune	IL7R
+Immune	INS-IGF2
+Immune	IRF4
+Immune	IRF5
+Immune	ITGAM
+Immune	ITGAX
+Immune	ITPKC
+Immune	ITPR3
+Immune	JAZF1
+Immune	KCNH7
+Immune	KCNN2
+Immune	KCP
+Immune	KIAA0319L
+Immune	KIAA0391
+Immune	KIAA1109
+Immune	KIF1B
+Immune	KIF21B
+Immune	KIF3A
+Immune	KIF4CP
+Immune	KIRREL3-AS3
+Immune	KLRC4
+Immune	KLRC4-KLRK1
+Immune	KPNB1
+Immune	KRT18P39
+Immune	KRT18P4
+Immune	LBH
+Immune	LCE3D
+Immune	LCE3E
+Immune	LCE5A
+Immune	LIF
+Immune	LINC00574
+Immune	LINC00603
+Immune	LINC00709
+Immune	LINC00923
+Immune	LINC00977
+Immune	LINC01082
+Immune	LINC01104
+Immune	LINC01185
+Immune	LINC01263
+Immune	LMO7
+Immune	LOC100506023
+Immune	LOC100506047
+Immune	LOC101926943
+Immune	LOC101927078
+Immune	LOC101927783
+Immune	LOC101928791
+Immune	LOC101928822
+Immune	LOC101929072
+Immune	LOC101929163
+Immune	LOC101929220
+Immune	LOC101929761
+Immune	LOC101930098
+Immune	LOC102724748
+Immune	LOC285626
+Immune	LPP
+Immune	LRRC18
+Immune	LRRC32
+Immune	LTBR
+Immune	MAGEC2
+Immune	MALT1
+Immune	MAPK1
+Immune	MECP2
+Immune	MEG3
+Immune	MERTK
+Immune	METTL1
+Immune	MIA
+Immune	MIA-RAB4B
+Immune	MICA
+Immune	MIR100HG
+Immune	MIR1204
+Immune	MIR1208
+Immune	MIR3659
+Immune	MIR3939
+Immune	MIR4425
+Immune	MIR4686
+Immune	MIR5192
+Immune	MIR548AC
+Immune	MIR5708
+Immune	MIR6090
+Immune	MIR6731
+Immune	MIR6774
+Immune	MLANA
+Immune	MPV17L2
+Immune	MRPL35P1
+Immune	MRPS17P5
+Immune	MSH5
+Immune	MSH5-SAPCD1
+Immune	MTF1
+Immune	MUC22
+Immune	NAA25
+Immune	NACAP1
+Immune	NCOA5
+Immune	NEFHP1
+Immune	NEUROD2
+Immune	NFATC2
+Immune	NFIA
+Immune	NFKBIE
+Immune	NFKBIZ
+Immune	NLGN4X
+Immune	NLRP10
+Immune	NOS2
+Immune	NOTCH4
+Immune	NPM1P33
+Immune	NUPR1
+Immune	ODF3B
+Immune	OR10A3
+Immune	OVOL1
+Immune	P4HA2-AS1
+Immune	PA2G4P1
+Immune	PABPC5
+Immune	PABPC5-AS1
+Immune	PADI4
+Immune	PBX2
+Immune	PDE2A
+Immune	PFDN4
+Immune	PGBD4P8
+Immune	PHF19
+Immune	PHRF1
+Immune	PHTF1
+Immune	PLCL1
+Immune	PLCL2
+Immune	PLD4
+Immune	PLEK
+Immune	PPCDC
+Immune	PPIL4
+Immune	PRDM1
+Immune	PRKCH
+Immune	PRKD2
+Immune	PRR14
+Immune	PSMA4
+Immune	PSMA6
+Immune	PSORS1C1
+Immune	PSORS1C2
+Immune	PTGER4
+Immune	PTPN2
+Immune	PTPN22
+Immune	PTPRK
+Immune	PVT1
+Immune	PXK
+Immune	RABEP1
+Immune	RAD51B
+Immune	RANBP6
+Immune	RASGRP1
+Immune	RASGRP3
+Immune	RBM17
+Immune	RBPJ
+Immune	REL
+Immune	RERE
+Immune	REV3L
+Immune	RGS1
+Immune	RGS21
+Immune	RNA5SP299
+Immune	RNA5SP309
+Immune	RNASEL
+Immune	RNASET2
+Immune	RNLS
+Immune	RNPS1P1
+Immune	RNU4ATAC2P
+Immune	RNY4P14
+Immune	RPGRIP1L
+Immune	RPL12P23
+Immune	RPL13AP14
+Immune	RPL13P2
+Immune	RPL23AP12
+Immune	RPL24P9
+Immune	RPL26P11
+Immune	RPL31P10
+Immune	RPL32P23
+Immune	RPL34P3
+Immune	RPL36AP45
+Immune	RPL39P23
+Immune	RPL9P24
+Immune	RPLP0P3
+Immune	RPLP1
+Immune	RPP14
+Immune	RPS12P4
+Immune	RPS14P1
+Immune	RPS3AP21
+Immune	RPS3AP51
+Immune	RPSAP42
+Immune	RPSAP64
+Immune	RTKN2
+Immune	RUNX1-IT1
+Immune	SDK1
+Immune	SEMA6A
+Immune	SERBP1P4
+Immune	SERPINA1
+Immune	SERPINA11
+Immune	SESN3
+Immune	SETP16
+Immune	SFTPD
+Immune	SH2B3
+Immune	SIRPG
+Immune	SKAP2
+Immune	SLAMF6
+Immune	SLC15A2
+Immune	SLC15A4
+Immune	SLC1A2
+Immune	SLC25A46
+Immune	SLC29A3
+Immune	SLC30A7
+Immune	SLC44A4
+Immune	SMAD3
+Immune	SMARCE1
+Immune	SMIM20
+Immune	SMIM21
+Immune	SNAI1
+Immune	SOCS1
+Immune	SORL1
+Immune	SP140
+Immune	SPANXN4
+Immune	SPATA2
+Immune	SPATA8
+Immune	SPRED2
+Immune	SPSB1
+Immune	SSTR3
+Immune	STAG1
+Immune	STAT2
+Immune	STAT3
+Immune	STAT4
+Immune	SUOX
+Immune	SYNGR1
+Immune	TAGAP
+Immune	TBKBP1
+Immune	TEC
+Immune	TEF
+Immune	TFCP2L1
+Immune	TG
+Immune	TIMMDC1
+Immune	TLR1
+Immune	TLR6
+Immune	TMEM17
+Immune	TNFAIP3
+Immune	TNFRSF1A
+Immune	TNFRSF9
+Immune	TNFSF14
+Immune	TNFSF4
+Immune	TNIP1
+Immune	TNPO3
+Immune	TNXB
+Immune	TPD52
+Immune	TPI1P2
+Immune	TRAF1
+Immune	TRAF3IP2
+Immune	TRAF3IP2-AS1
+Immune	TREH
+Immune	TRNAA45P
+Immune	TRNAI13
+Immune	TRNAI25
+Immune	TSHR
+Immune	TSLP
+Immune	TTC34
+Immune	TTC6
+Immune	TUBB6P1
+Immune	TXNDC11
+Immune	TYK2
+Immune	TYR
+Immune	UBASH3A
+Immune	UBE2L3
+Immune	UBE2V1P9
+Immune	UBLCP1
+Immune	UHRF1BP1
+Immune	USF1P1
+Immune	UTS2
+Immune	VCAM1
+Immune	VN1R55P
+Immune	WDFY4
+Immune	WDR36
+Immune	YDJC
+Immune	YPEL5
+Immune	ZBTB12
+Immune	ZC3H7A
+Immune	ZC3H7B
+Immune	ZFP36L1
+Immune	ZFP36L2
+Immune	ZMIZ1
+Immune	ZNF365
+Immune	ZNF516
+Immune	ZNF689
+Immune	ZNF767P
+Immune	ZNRD1-AS1
+Immune	ZPLD1
+Metabolic	ABCA1
+Metabolic	ACAN
+Metabolic	ADAMTS17
+Metabolic	ADAMTS9-AS2
+Metabolic	ADAMTSL3
+Metabolic	ADCY3
+Metabolic	ADCY5
+Metabolic	ADCY9
+Metabolic	AFF3
+Metabolic	AGMO
+Metabolic	AMD1P1
+Metabolic	AMZ1
+Metabolic	ANK1
+Metabolic	ANKS1A
+Metabolic	AOC1
+Metabolic	AP3S2
+Metabolic	APOB
+Metabolic	ARAP1
+Metabolic	ARHGAP22
+Metabolic	ARL15
+Metabolic	ATAD5
+Metabolic	BCDIN3D
+Metabolic	BCDIN3D-AS1
+Metabolic	BCKDHB
+Metabolic	BCL6
+Metabolic	BDNF
+Metabolic	BDNF-AS
+Metabolic	BMP2
+Metabolic	BMP6
+Metabolic	BPESC1
+Metabolic	BRINP2
+Metabolic	BTF3P7
+Metabolic	C14orf39
+Metabolic	C15orf38-AP3S2
+Metabolic	C17orf82
+Metabolic	C2CD4B
+Metabolic	C2orf43
+Metabolic	C6orf106
+Metabolic	C6orf57
+Metabolic	CABLES1
+Metabolic	CADM2
+Metabolic	CAMK1D
+Metabolic	CAMK2B
+Metabolic	CASC20
+Metabolic	CATSPER3
+Metabolic	CCDC91
+Metabolic	CDC123
+Metabolic	CDC42EP3
+Metabolic	CDK6
+Metabolic	CDKAL1
+Metabolic	CENPO
+Metabolic	CETP
+Metabolic	CHCHD2P9
+Metabolic	CHCHD7
+Metabolic	COBLL1
+Metabolic	COLGALT2
+Metabolic	CSH1
+Metabolic	CSHL1
+Metabolic	CUX2
+Metabolic	CYP2R1
+Metabolic	DCBLD1
+Metabolic	DGKG
+Metabolic	DIS3L2
+Metabolic	DLEU2
+Metabolic	DLEU7
+Metabolic	DMRTA1
+Metabolic	DNAJC27
+Metabolic	DNM3
+Metabolic	DOT1L
+Metabolic	DUSP9
+Metabolic	DYM
+Metabolic	DYNLRB2
+Metabolic	EDC4
+Metabolic	EFEMP1
+Metabolic	EFR3B
+Metabolic	EIF3EP3
+Metabolic	EPB41L1
+Metabolic	ERP29P1
+Metabolic	ESR1
+Metabolic	ETV5
+Metabolic	ETV6
+Metabolic	EXOC6
+Metabolic	FABP5P10
+Metabolic	FAF1
+Metabolic	FAH
+Metabolic	FAM150B
+Metabolic	FAM46A
+Metabolic	FAM58A
+Metabolic	FGF18
+Metabolic	FITM2
+Metabolic	FNDC3B
+Metabolic	FPGT-TNNI3K
+Metabolic	FRS2
+Metabolic	FSCN3
+Metabolic	FTO
+Metabolic	FUBP3
+Metabolic	G6PC2
+Metabolic	GALNT2
+Metabolic	GC
+Metabolic	GCC1
+Metabolic	GCK
+Metabolic	GCKR
+Metabolic	GDF5
+Metabolic	GDI2P2
+Metabolic	GHSR
+Metabolic	GIPR
+Metabolic	GLIS3
+Metabolic	GNA12
+Metabolic	GNAT2
+Metabolic	GPR126
+Metabolic	GPR139
+Metabolic	GPRC5B
+Metabolic	GPSM1
+Metabolic	GRK5
+Metabolic	GTF3AP5
+Metabolic	H6PD
+Metabolic	HACE1
+Metabolic	HECTD4
+Metabolic	HERPUD1
+Metabolic	HHEX
+Metabolic	HHIP
+Metabolic	HHIP-AS1
+Metabolic	HIST1H2AD
+Metabolic	HIST1H2BF
+Metabolic	HIST1H3D
+Metabolic	HMG20A
+Metabolic	HMGA2
+Metabolic	HNF1A-AS1
+Metabolic	HNF1B
+Metabolic	HNF4A
+Metabolic	HNF4G
+Metabolic	HOXB-AS3
+Metabolic	HOXB3
+Metabolic	HOXB5
+Metabolic	HS6ST3
+Metabolic	IGF2BP2
+Metabolic	IGF2BP3
+Metabolic	IGFBP4
+Metabolic	IL23R
+Metabolic	IL2RA
+Metabolic	JAZF1
+Metabolic	KCNJ11
+Metabolic	KCNK16
+Metabolic	KCNK17
+Metabolic	KCNMA1
+Metabolic	KCNQ1
+Metabolic	KCNQ1OT1
+Metabolic	KIAA0825
+Metabolic	KLF14
+Metabolic	KRT18P24
+Metabolic	KRT18P48
+Metabolic	KRT8P21
+Metabolic	L3MBTL3
+Metabolic	LAMA1
+Metabolic	LCORL
+Metabolic	LEPR
+Metabolic	LGR5
+Metabolic	LINC00211
+Metabolic	LINC00471
+Metabolic	LINC00558
+Metabolic	LINC00577
+Metabolic	LINC00870
+Metabolic	LINC01080
+Metabolic	LINC01111
+Metabolic	LINC01122
+Metabolic	LINGO2
+Metabolic	LOC101927002
+Metabolic	LOC101928423
+Metabolic	LOC101929328
+Metabolic	LOC102724766
+Metabolic	LOC553103
+Metabolic	LOC646736
+Metabolic	LOXL1
+Metabolic	LPL
+Metabolic	LPP-AS2
+Metabolic	LTBP1
+Metabolic	LY86
+Metabolic	LYPLAL1
+Metabolic	MAEA
+Metabolic	MAF
+Metabolic	MAP2K5
+Metabolic	MC4R
+Metabolic	MCTP2
+Metabolic	MFAP2
+Metabolic	MIR124-1
+Metabolic	MIR29A
+Metabolic	MIR4432
+Metabolic	MIR486
+Metabolic	MIR5702
+Metabolic	MIR588
+Metabolic	MLXIPL
+Metabolic	MPHOSPH9
+Metabolic	MRPS33P4
+Metabolic	MSRA
+Metabolic	MTMR11
+Metabolic	MTNR1B
+Metabolic	MYL2
+Metabolic	N4BP2L2-IT2
+Metabolic	NADSYN1
+Metabolic	NCAM2
+Metabolic	NFATC4
+Metabolic	NOTCH2
+Metabolic	NPM1P47
+Metabolic	NPR3
+Metabolic	NR1H3
+Metabolic	NRXN3
+Metabolic	NYAP2
+Metabolic	OAS1
+Metabolic	OAS3
+Metabolic	OASL
+Metabolic	PACS1
+Metabolic	PAX4
+Metabolic	PAX5
+Metabolic	PCSK5
+Metabolic	PDS5B
+Metabolic	PEPD
+Metabolic	PISRT1
+Metabolic	PITX1
+Metabolic	PLXDC2
+Metabolic	POC5
+Metabolic	POU5F1
+Metabolic	PPARG
+Metabolic	PPM1B
+Metabolic	PPP2R2A
+Metabolic	PRC1
+Metabolic	PRC1-AS1
+Metabolic	PRDX4P1
+Metabolic	PRICKLE2-AS1
+Metabolic	PRKCH
+Metabolic	PRKG2
+Metabolic	PRKRIRP9
+Metabolic	PROCR
+Metabolic	PSMC1P12
+Metabolic	PSMC3
+Metabolic	PSMD6
+Metabolic	PTPRD
+Metabolic	PTPRJ
+Metabolic	PXMP4
+Metabolic	R3HDML
+Metabolic	RABEP2
+Metabolic	RASGEF1B
+Metabolic	RASGRP1
+Metabolic	RBMS1
+Metabolic	RFT1
+Metabolic	RIMKLBP2
+Metabolic	RIPK3
+Metabolic	RMST
+Metabolic	RNA5SP56
+Metabolic	RNA5SP94
+Metabolic	RND3
+Metabolic	RPL12P19
+Metabolic	RPL12P33
+Metabolic	RPL17P25
+Metabolic	RPL29P1
+Metabolic	RPL30P9
+Metabolic	RPL31P12
+Metabolic	RPL34P26
+Metabolic	RPL35AP28
+Metabolic	RPS14P6
+Metabolic	RPS26P45
+Metabolic	RPS3AP18
+Metabolic	RPS3AP42
+Metabolic	RPS3AP49
+Metabolic	RPS8P8
+Metabolic	RPSAP52
+Metabolic	RPTOR
+Metabolic	RREB1
+Metabolic	RSPO3
+Metabolic	RSRC1
+Metabolic	RYBP
+Metabolic	SALL4P7
+Metabolic	SCMH1
+Metabolic	SDR16C5
+Metabolic	SEC16B
+Metabolic	SEPHS1P2
+Metabolic	SGCG
+Metabolic	SH2B1
+Metabolic	SLC16A11
+Metabolic	SLC16A13
+Metabolic	SLC30A8
+Metabolic	SMEK2
+Metabolic	SMIM23
+Metabolic	SOCS2
+Metabolic	SPRY2
+Metabolic	SRR
+Metabolic	SSR1
+Metabolic	ST6GAL1
+Metabolic	SUB1
+Metabolic	SUPT3H
+Metabolic	TBX4
+Metabolic	TCF7L2
+Metabolic	TET2
+Metabolic	TFAP2B
+Metabolic	TGFB2
+Metabolic	THADA
+Metabolic	TMEM176A
+Metabolic	TMEM18
+Metabolic	TNNI3K
+Metabolic	TOMM40
+Metabolic	TP53INP1
+Metabolic	TRIM66
+Metabolic	TRNAI25
+Metabolic	TSPAN8
+Metabolic	UBA52P6
+Metabolic	UBE2E2
+Metabolic	VIMP1
+Metabolic	VPS26A
+Metabolic	WFS1
+Metabolic	YKT6
+Metabolic	ZBED3-AS1
+Metabolic	ZBTB38
+Metabolic	ZC3H11B
+Metabolic	ZFAND3
+Metabolic	ZFAND6
+Metabolic	ZMIZ1
+Metabolic	ZNF367
+Metabolic	ZNF646P1
+Metabolic	ZNF800
+Metabolic	ZPR1
+Metabolic	ZZZ3
+Nervous	ABCA7
+Nervous	ABCC9
+Nervous	ACMSD
+Nervous	ADAMTS9-AS2
+Nervous	AJAP1
+Nervous	ALCAM
+Nervous	AMPD1
+Nervous	ANKRD55
+Nervous	APOC1
+Nervous	ARMS2
+Nervous	ASTN2
+Nervous	B3GALTL
+Nervous	BCAS3
+Nervous	BIN1
+Nervous	BST1
+Nervous	BTBD9
+Nervous	BZW2
+Nervous	C1D
+Nervous	C2
+Nervous	C3
+Nervous	C5orf30
+Nervous	C9orf72
+Nervous	CACNA1G
+Nervous	CAMK1G
+Nervous	CAMSAP2
+Nervous	CASC16
+Nervous	CASS4
+Nervous	CAV1
+Nervous	CAV2
+Nervous	CCDC109B
+Nervous	CCDC62
+Nervous	CD2AP
+Nervous	CD33
+Nervous	CDH9
+Nervous	CDKN2B
+Nervous	CDKN2B-AS1
+Nervous	CELF1
+Nervous	CERS6
+Nervous	CETP
+Nervous	CFB
+Nervous	CFH
+Nervous	CFI
+Nervous	CHRM3
+Nervous	CLMN
+Nervous	CLU
+Nervous	CNTN1
+Nervous	COL10A1
+Nervous	COL11A1
+Nervous	COL8A1
+Nervous	CR1
+Nervous	CRADD
+Nervous	CRHR1
+Nervous	CRHR1-IT1
+Nervous	CTNNA2
+Nervous	CTNND2
+Nervous	CYP27C1
+Nervous	DGKQ
+Nervous	DPP6
+Nervous	EDAR
+Nervous	EPHA1-AS1
+Nervous	ETAA1
+Nervous	FAM47E
+Nervous	FAM47E-STBD1
+Nervous	FERMT2
+Nervous	FHL5
+Nervous	FLJ45256
+Nervous	FNTAP1
+Nervous	FRK
+Nervous	GAB2
+Nervous	GAK
+Nervous	GPR133
+Nervous	GPRIN3
+Nervous	HERPUD1
+Nervous	HLA-DQB1
+Nervous	HLA-DRA
+Nervous	HTRA1
+Nervous	IFNK
+Nervous	INPP5D
+Nervous	IQCF1
+Nervous	IQCF5
+Nervous	ITGA9
+Nervous	KANSL1
+Nervous	KCNN3
+Nervous	KIFAP3
+Nervous	KRT18P55
+Nervous	LAMP3
+Nervous	LINC00111
+Nervous	LINC00701
+Nervous	LINC01134
+Nervous	LOC100289673
+Nervous	LOC101927066
+Nervous	LOC101927119
+Nervous	LOC101927235
+Nervous	LOC101928890
+Nervous	LOC102060414
+Nervous	LOC102724137
+Nervous	LOC102724192
+Nervous	LOC102724556
+Nervous	LOC102724766
+Nervous	LOC389641
+Nervous	LOC644135
+Nervous	LRP1
+Nervous	LRP12
+Nervous	LRRK2
+Nervous	MACROD2
+Nervous	MAP2K5
+Nervous	MAPT
+Nervous	MAPT-AS1
+Nervous	MCCC1
+Nervous	MEF2C-AS1
+Nervous	MEF2D
+Nervous	MEIS1
+Nervous	MGC57346
+Nervous	MIR205
+Nervous	MIR6503
+Nervous	MIR6843
+Nervous	MMRN1
+Nervous	MS4A2
+Nervous	MS4A4A
+Nervous	MS4A6A
+Nervous	MSNP1
+Nervous	MTHFD1L
+Nervous	MTMR7
+Nervous	MYO16
+Nervous	NANOGNBP1
+Nervous	NECAP1P1
+Nervous	NELFE
+Nervous	NGF
+Nervous	NME8
+Nervous	NOTCH4
+Nervous	NPAS2
+Nervous	NSF
+Nervous	NT5DC1
+Nervous	NUDT12
+Nervous	OPCML
+Nervous	PCMTD1
+Nervous	PDE7B
+Nervous	PFKP
+Nervous	PHACTR1
+Nervous	PHF5GP
+Nervous	PICALM
+Nervous	PLA2G12A
+Nervous	PLEKHA7
+Nervous	PMVK
+Nervous	PPIAP7
+Nervous	PRDM16
+Nervous	PRNP
+Nervous	PTK2B
+Nervous	PTPRD
+Nervous	PVRL2
+Nervous	RAB25
+Nervous	RAB7L1
+Nervous	RAD51B
+Nervous	RBMS3-AS2
+Nervous	RELN
+Nervous	REST
+Nervous	RIPK2
+Nervous	RIT2
+Nervous	RNA5SP272
+Nervous	RPL21P27
+Nervous	RPL23P9
+Nervous	RPS15AP4
+Nervous	RPSAP19
+Nervous	SAP30L
+Nervous	SCARA3
+Nervous	SH3RF3-AS1
+Nervous	SIX1
+Nervous	SKIV2L
+Nervous	SLC16A8
+Nervous	SLC24A4
+Nervous	SLC2A13
+Nervous	SLC41A1
+Nervous	SLC50A1
+Nervous	SNCA
+Nervous	SORL1
+Nervous	SPON1
+Nervous	SPPL2C
+Nervous	SRBD1
+Nervous	ST18
+Nervous	SUGCT
+Nervous	SUSD2
+Nervous	SYK
+Nervous	TEX41
+Nervous	TGFBR1
+Nervous	TGFBR2
+Nervous	TGM6
+Nervous	TIAM1
+Nervous	TMCO1
+Nervous	TMEM163
+Nervous	TMEM175
+Nervous	TMPRSS2
+Nervous	TNFRSF10A
+Nervous	TNXB
+Nervous	TOMM40
+Nervous	TRA
+Nervous	TRB
+Nervous	TREM2
+Nervous	TRIM33
+Nervous	TRNAC11
+Nervous	TRNAE27P
+Nervous	TRNAI25
+Nervous	TRPM8
+Nervous	TSPAN2
+Nervous	UNC13A
+Nervous	WNT3
+Nervous	ZCWPW1
+Nervous	ZEB2-AS1
+Nervous	ZNF365
+Nervous	ZNF746
+Response to drug	ABCG2
+Response to drug	ADCY2
+Response to drug	AGBL3
+Response to drug	AHCYL2
+Response to drug	AHCYP5
+Response to drug	ANGPT4
+Response to drug	APOE
+Response to drug	ARHGAP10
+Response to drug	ATP10A
+Response to drug	BCO2
+Response to drug	C11orf65
+Response to drug	C2
+Response to drug	C3orf79
+Response to drug	CACNB4
+Response to drug	CCHCR1
+Response to drug	CICP18
+Response to drug	CLMN
+Response to drug	CNTN5
+Response to drug	CNTNAP5
+Response to drug	CNTRL
+Response to drug	COL26A1
+Response to drug	COL4A4
+Response to drug	CRNDE
+Response to drug	CTBP2P2
+Response to drug	CXCL12
+Response to drug	CXorf51B
+Response to drug	CYP2C9
+Response to drug	CYP4F2
+Response to drug	DDX54
+Response to drug	DENND3
+Response to drug	DUSP22
+Response to drug	DUSP4
+Response to drug	DYNC1I1
+Response to drug	ECSCR
+Response to drug	EIF4EP2
+Response to drug	EIF4HP1
+Response to drug	ELL2P4
+Response to drug	EPGN
+Response to drug	FABP5P10
+Response to drug	FTLP4
+Response to drug	GLUD1P4
+Response to drug	GPN3P1
+Response to drug	GPR158
+Response to drug	GPR98
+Response to drug	GRIN2B
+Response to drug	GTF3AP6
+Response to drug	HDAC9
+Response to drug	HELLS
+Response to drug	HLA-DPB1
+Response to drug	HNRNPA1P47
+Response to drug	HSP90AB7P
+Response to drug	IL15RA
+Response to drug	IL17F
+Response to drug	IL2RA
+Response to drug	IRAK4
+Response to drug	IRX3
+Response to drug	ITIH3
+Response to drug	ITIH4
+Response to drug	ITPA
+Response to drug	KCND2
+Response to drug	KCND3
+Response to drug	KCNG2
+Response to drug	LINC00271
+Response to drug	LINC00486
+Response to drug	LINC00709
+Response to drug	LINC00841
+Response to drug	LINC01216
+Response to drug	LOC101927676
+Response to drug	LPA
+Response to drug	LRRTM1
+Response to drug	MAMLD1
+Response to drug	MEIS2
+Response to drug	MEX3C
+Response to drug	MGMT
+Response to drug	MKX
+Response to drug	MNAT1
+Response to drug	MTHFD2L
+Response to drug	MTND4P25
+Response to drug	MTND4P3
+Response to drug	NELL1
+Response to drug	NGFR
+Response to drug	PCDH15
+Response to drug	PCSK9
+Response to drug	PDE4D
+Response to drug	PHBP14
+Response to drug	PHEX
+Response to drug	PMAIP1
+Response to drug	PPP3CA
+Response to drug	PRKCQ
+Response to drug	PTPRB
+Response to drug	PTPRD
+Response to drug	PUS7L
+Response to drug	RAB14
+Response to drug	RAP2B
+Response to drug	RFT1
+Response to drug	RNA5SP171
+Response to drug	RNA5SP231
+Response to drug	RNA5SP278
+Response to drug	RND3
+Response to drug	RNY4P16
+Response to drug	RPL17P33
+Response to drug	RPL35P4
+Response to drug	RPL6P18
+Response to drug	RPL6P22
+Response to drug	RPS26P2
+Response to drug	RSPO4
+Response to drug	SLC15A1
+Response to drug	SLCO1B1
+Response to drug	SNRPEP8
+Response to drug	SPIRE1
+Response to drug	SPTLC1P2
+Response to drug	STAM2
+Response to drug	STX4
+Response to drug	SUPV3L1
+Response to drug	TANK
+Response to drug	TIMELESS
+Response to drug	TMEM173
+Response to drug	TOMM20
+Response to drug	TRNAI25
+Response to drug	TSN
+Response to drug	UBE3A
+Response to drug	UST
+Response to drug	VENTXP5
+Response to drug	VKORC1
+Response to drug	WDR92
+Response to drug	ZBTB12
+Response to drug	ZHX2
+Response to drug	ZNF614
+Response to drug	ZNF616
+Response to drug	ZNF827
+Response to drug	ZNF841
+ÿBody measure	ACAN
+ÿBody measure	ACBD4
+ÿBody measure	ACTBL2
+ÿBody measure	ADAM28
+ÿBody measure	ADAMTS17
+ÿBody measure	ADAMTS3
+ÿBody measure	ADAMTSL3
+ÿBody measure	ADAP2
+ÿBody measure	ADCY3
+ÿBody measure	ADCY5
+ÿBody measure	ADRB1
+ÿBody measure	ALDH2
+ÿBody measure	AMZ1
+ÿBody measure	ANKRD13B
+ÿBody measure	ANTXR1
+ÿBody measure	AOC1
+ÿBody measure	ARSE
+ÿBody measure	ATAD5
+ÿBody measure	ATP5SL
+ÿBody measure	BCDIN3D
+ÿBody measure	BDNF
+ÿBody measure	BDNF-AS
+ÿBody measure	BMP2
+ÿBody measure	BMP6
+ÿBody measure	BNC2
+ÿBody measure	BOD1
+ÿBody measure	BRINP2
+ÿBody measure	C14orf39
+ÿBody measure	C17orf67
+ÿBody measure	C17orf82
+ÿBody measure	C2CD4B
+ÿBody measure	C2orf88
+ÿBody measure	C6orf1
+ÿBody measure	C6orf106
+ÿBody measure	C9orf64
+ÿBody measure	C9orf92
+ÿBody measure	CABLES1
+ÿBody measure	CADM2
+ÿBody measure	CAMKMT
+ÿBody measure	CASC20
+ÿBody measure	CASKIN1
+ÿBody measure	CAST
+ÿBody measure	CATSPER3
+ÿBody measure	CBX3P8
+ÿBody measure	CCDC108
+ÿBody measure	CCDC3
+ÿBody measure	CCDC53
+ÿBody measure	CCDC88A
+ÿBody measure	CCDC91
+ÿBody measure	CD79B
+ÿBody measure	CDC42EP3
+ÿBody measure	CDK6
+ÿBody measure	CDKAL1
+ÿBody measure	CEP120
+ÿBody measure	CHCHD7
+ÿBody measure	CLIC4
+ÿBody measure	COL6A5
+ÿBody measure	CPEB4
+ÿBody measure	CPN1
+ÿBody measure	CRADD
+ÿBody measure	CRIPT
+ÿBody measure	CS
+ÿBody measure	CSH1
+ÿBody measure	CSHL1
+ÿBody measure	CTU2
+ÿBody measure	CUX2
+ÿBody measure	CYCSP24
+ÿBody measure	CYP19A1
+ÿBody measure	DCAF16
+ÿBody measure	DDX6
+ÿBody measure	DGKG
+ÿBody measure	DIRC3
+ÿBody measure	DIS3L2
+ÿBody measure	DLEU7
+ÿBody measure	DNAJC27
+ÿBody measure	DNM3
+ÿBody measure	DOCK3
+ÿBody measure	DOT1L
+ÿBody measure	DTL
+ÿBody measure	DYM
+ÿBody measure	EEF1A1P11
+ÿBody measure	EFEMP1
+ÿBody measure	EFR3B
+ÿBody measure	EIF2AK3
+ÿBody measure	EPDR1
+ÿBody measure	ESR1
+ÿBody measure	ETV5
+ÿBody measure	ETV6
+ÿBody measure	FAM124B
+ÿBody measure	FAM150B
+ÿBody measure	FAM184B
+ÿBody measure	FAM208A
+ÿBody measure	FAM46A
+ÿBody measure	FAM60CP
+ÿBody measure	FAM69A
+ÿBody measure	FBLN2
+ÿBody measure	FBLN5
+ÿBody measure	FER
+ÿBody measure	FERD3L
+ÿBody measure	FGF18
+ÿBody measure	FGFR4
+ÿBody measure	FLI1
+ÿBody measure	FNDC3B
+ÿBody measure	FOXO6
+ÿBody measure	FPGT-TNNI3K
+ÿBody measure	FRS2
+ÿBody measure	FTO
+ÿBody measure	FUBP3
+ÿBody measure	FUT2
+ÿBody measure	GALNT10
+ÿBody measure	GAS1
+ÿBody measure	GDF5
+ÿBody measure	GDI2P2
+ÿBody measure	GEMIN8P1
+ÿBody measure	GFPT2
+ÿBody measure	GH2
+ÿBody measure	GHSR
+ÿBody measure	GIPR
+ÿBody measure	GIT1
+ÿBody measure	GNA12
+ÿBody measure	GP2
+ÿBody measure	GPC5
+ÿBody measure	GPR126
+ÿBody measure	GPR133
+ÿBody measure	GPR139
+ÿBody measure	GPRC5B
+ÿBody measure	GSDMC
+ÿBody measure	HACE1
+ÿBody measure	HDAC11
+ÿBody measure	HHIP
+ÿBody measure	HHIP-AS1
+ÿBody measure	HIGD1AP18
+ÿBody measure	HIST1H2AD
+ÿBody measure	HIST1H2APS3
+ÿBody measure	HIST1H2BF
+ÿBody measure	HIST1H3D
+ÿBody measure	HIVEP2
+ÿBody measure	HMGA1
+ÿBody measure	HMGA2
+ÿBody measure	HMGB1P22
+ÿBody measure	HNRNPA1P67
+ÿBody measure	HTR1D
+ÿBody measure	ID4
+ÿBody measure	IGF1
+ÿBody measure	IGF1R
+ÿBody measure	IGF2BP3
+ÿBody measure	IHH
+ÿBody measure	INSR
+ÿBody measure	IPPK
+ÿBody measure	ITIH4
+ÿBody measure	ITPR3
+ÿBody measure	JAZF1
+ÿBody measure	JMJD4
+ÿBody measure	KCNE2
+ÿBody measure	KCNJ12
+ÿBody measure	KCNJ16
+ÿBody measure	KCNQ1
+ÿBody measure	KCTD13
+ÿBody measure	KCTD15
+ÿBody measure	KIF27
+ÿBody measure	KLF3P2
+ÿBody measure	KLF9
+ÿBody measure	KRT18P51
+ÿBody measure	KRT18P63
+ÿBody measure	KRT8P21
+ÿBody measure	KYNU
+ÿBody measure	L3MBTL3
+ÿBody measure	LCORL
+ÿBody measure	LHX2
+ÿBody measure	LIN28A
+ÿBody measure	LIN28B
+ÿBody measure	LINC00211
+ÿBody measure	LINC00310
+ÿBody measure	LINC00577
+ÿBody measure	LINC00880
+ÿBody measure	LINC01122
+ÿBody measure	LINGO2
+ÿBody measure	LOC100506236
+ÿBody measure	LOC101927891
+ÿBody measure	LOC101927898
+ÿBody measure	LOC101928731
+ÿBody measure	LOC101929155
+ÿBody measure	LOC102723893
+ÿBody measure	LOC553103
+ÿBody measure	LOXL1
+ÿBody measure	LPAR1
+ÿBody measure	LRRC37B
+ÿBody measure	LTBP1
+ÿBody measure	LTBP2
+ÿBody measure	MAML2
+ÿBody measure	MAMSTR
+ÿBody measure	MAP2K5
+ÿBody measure	MAP3K3
+ÿBody measure	MARK2P3
+ÿBody measure	MC4R
+ÿBody measure	MEF2C-AS1
+ÿBody measure	MFAP2
+ÿBody measure	MFAP3
+ÿBody measure	MGAT5
+ÿBody measure	MICA
+ÿBody measure	MICAL1
+ÿBody measure	MIR148A
+ÿBody measure	MIR193B
+ÿBody measure	MIR3660
+ÿBody measure	MIR3686
+ÿBody measure	MIR548AQ
+ÿBody measure	MIR548Q
+ÿBody measure	MIR588
+ÿBody measure	MIR6074
+ÿBody measure	MIR8056
+ÿBody measure	MIR8081
+ÿBody measure	MIR92A1
+ÿBody measure	MIRLET7A1
+ÿBody measure	MLST8
+ÿBody measure	MMD
+ÿBody measure	MTCH2
+ÿBody measure	MTIF3
+ÿBody measure	MYL2
+ÿBody measure	MYO1F
+ÿBody measure	MYO9A
+ÿBody measure	MYO9B
+ÿBody measure	N4BP2L2-IT2
+ÿBody measure	NARFL
+ÿBody measure	NCKAP5
+ÿBody measure	NDUFS5P2
+ÿBody measure	NENFP2
+ÿBody measure	NFATC4
+ÿBody measure	NFIC
+ÿBody measure	NHEJ1
+ÿBody measure	NISCH
+ÿBody measure	NME1-NME2
+ÿBody measure	NME2
+ÿBody measure	NOA1
+ÿBody measure	NOG
+ÿBody measure	NPM1P47
+ÿBody measure	NPPC
+ÿBody measure	NPR3
+ÿBody measure	NRXN3
+ÿBody measure	NT5C2
+ÿBody measure	NUCB2
+ÿBody measure	NUDT3
+ÿBody measure	NUP210P3
+ÿBody measure	OR4A5
+ÿBody measure	PAPPA
+ÿBody measure	PAPPA2
+ÿBody measure	PCCB
+ÿBody measure	PCSK1
+ÿBody measure	PCSK5
+ÿBody measure	PDE11A
+ÿBody measure	PDS5B
+ÿBody measure	PGAM1P1
+ÿBody measure	PIP4K2B
+ÿBody measure	PITX1
+ÿBody measure	PKIA
+ÿBody measure	PLAG1
+ÿBody measure	PML
+ÿBody measure	PNPT1
+ÿBody measure	POC5
+ÿBody measure	PPARD
+ÿBody measure	PPIF
+ÿBody measure	PRDX4P1
+ÿBody measure	PRELID1P1
+ÿBody measure	PRKCA
+ÿBody measure	PRKCZ
+ÿBody measure	PRKD1
+ÿBody measure	PRKG2
+ÿBody measure	PRKRIRP2
+ÿBody measure	PRKRIRP9
+ÿBody measure	PSMC1P12
+ÿBody measure	PTCH1
+ÿBody measure	PTPRJ
+ÿBody measure	QPCTL
+ÿBody measure	QSOX2
+ÿBody measure	RAD51B
+ÿBody measure	RASGEF1B
+ÿBody measure	REST
+ÿBody measure	RFT1
+ÿBody measure	RHOD
+ÿBody measure	RIMKLBP2
+ÿBody measure	RIPK3
+ÿBody measure	RNA5SP22
+ÿBody measure	RNA5SP437
+ÿBody measure	RNA5SP56
+ÿBody measure	RNA5SP94
+ÿBody measure	RNFT1P2
+ÿBody measure	RNY4
+ÿBody measure	RNY4P18
+ÿBody measure	RNY5
+ÿBody measure	RPL17P25
+ÿBody measure	RPL21P46
+ÿBody measure	RPL26P20
+ÿBody measure	RPL28P3
+ÿBody measure	RPL29P1
+ÿBody measure	RPL29P6
+ÿBody measure	RPL31P12
+ÿBody measure	RPL34P26
+ÿBody measure	RPL35AP28
+ÿBody measure	RPL36AP9
+ÿBody measure	RPLP1
+ÿBody measure	RPS10-NUDT3
+ÿBody measure	RPS16P3
+ÿBody measure	RPS26P45
+ÿBody measure	RPS29P13
+ÿBody measure	RPS3AP49
+ÿBody measure	RPS4XP20
+ÿBody measure	RPS4XP9
+ÿBody measure	RPS6P13
+ÿBody measure	RPS6P24
+ÿBody measure	RPS8P8
+ÿBody measure	RPSAP49
+ÿBody measure	RREB1
+ÿBody measure	RYBP
+ÿBody measure	SALL4P7
+ÿBody measure	SBNO1
+ÿBody measure	SCMH1
+ÿBody measure	SDR16C5
+ÿBody measure	SEC16B
+ÿBody measure	SENP6
+ÿBody measure	SEPT2
+ÿBody measure	SERBP1P3
+ÿBody measure	SERPINE2
+ÿBody measure	SERPINH1
+ÿBody measure	SF3B4
+ÿBody measure	SH2B1
+ÿBody measure	SLBP
+ÿBody measure	SLC38A9
+ÿBody measure	SLC39A8
+ÿBody measure	SLCO1C1
+ÿBody measure	SLIT3
+ÿBody measure	SMC5
+ÿBody measure	SMIM23
+ÿBody measure	SMOC1
+ÿBody measure	SNRPEP3
+ÿBody measure	SOCS2
+ÿBody measure	SOCS5
+ÿBody measure	SPATA31C2
+ÿBody measure	SRRM1
+ÿBody measure	SSSCA1
+ÿBody measure	SSSCA1-AS1
+ÿBody measure	STARD3NL
+ÿBody measure	STAT2
+ÿBody measure	STC1
+ÿBody measure	STK33
+ÿBody measure	SUCLG2
+ÿBody measure	SUMO1P5
+ÿBody measure	SUPT3H
+ÿBody measure	SV2A
+ÿBody measure	SYN3
+ÿBody measure	TBX4
+ÿBody measure	TEAD1
+ÿBody measure	TET2
+ÿBody measure	TFAP2B
+ÿBody measure	TGFB2
+ÿBody measure	TMEM100
+ÿBody measure	TMEM176A
+ÿBody measure	TMEM18
+ÿBody measure	TMEM219
+ÿBody measure	TNNI3K
+ÿBody measure	TNXB
+ÿBody measure	TRA2B
+ÿBody measure	TREH
+ÿBody measure	TRIM51FP
+ÿBody measure	TRIP11
+ÿBody measure	TRNAI25
+ÿBody measure	TRNAT6
+ÿBody measure	TSEN15
+ÿBody measure	TULP4
+ÿBody measure	TWISTNB
+ÿBody measure	UBA52P1
+ÿBody measure	UQCC1
+ÿBody measure	VGLL2
+ÿBody measure	VGLL3
+ÿBody measure	VIMP1
+ÿBody measure	VN1R15P
+ÿBody measure	WWC2
+ÿBody measure	ZBTB24
+ÿBody measure	ZBTB38
+ÿBody measure	ZBTB7C
+ÿBody measure	ZC3H11B
+ÿBody measure	ZC3H4
+ÿBody measure	ZCCHC24
+ÿBody measure	ZFAS1
+ÿBody measure	ZFAT
+ÿBody measure	ZMIZ1
+ÿBody measure	ZNF341
+ÿBody measure	ZNF462
+ÿBody measure	ZNF638
+ÿBody measure	ZNF652
+ÿBody measure	ZNF678
+ÿOther	A1BG
+ÿOther	A1CF
+ÿOther	AADAT
+ÿOther	ABCA1
+ÿOther	ABCA4
+ÿOther	ABCA8
+ÿOther	ABCB11
+ÿOther	ABCC1
+ÿOther	ABCC4
+ÿOther	ABCC5
+ÿOther	ABCF2
+ÿOther	ABCG2
+ÿOther	ABCG5
+ÿOther	ABCG8
+ÿOther	ABHD12
+ÿOther	ABHD3
+ÿOther	ABI2
+ÿOther	ABO
+ÿOther	ACAA2
+ÿOther	ACAD10
+ÿOther	ACADL
+ÿOther	ACADM
+ÿOther	ACADS
+ÿOther	ACBD4
+ÿOther	ACE
+ÿOther	ACHE
+ÿOther	ACKR1
+ÿOther	ACMSD
+ÿOther	ACOXL
+ÿOther	ACSM2A
+ÿOther	ACSM2B
+ÿOther	ACSM5
+ÿOther	ACTBP9
+ÿOther	ACTL6B
+ÿOther	ACY3
+ÿOther	ACYP2
+ÿOther	ADAD1
+ÿOther	ADAM19
+ÿOther	ADAM28
+ÿOther	ADAMTS13
+ÿOther	ADAMTS18
+ÿOther	ADAMTS3
+ÿOther	ADAMTS6
+ÿOther	ADAMTS7P4
+ÿOther	ADAMTS8
+ÿOther	ADCY2
+ÿOther	ADCY5
+ÿOther	ADD3-AS1
+ÿOther	ADGB
+ÿOther	ADH1B
+ÿOther	ADH1C
+ÿOther	ADHFE1
+ÿOther	ADIPOQ
+ÿOther	ADIPOQ-AS1
+ÿOther	ADRA1A
+ÿOther	ADRA1B
+ÿOther	ADRA2A
+ÿOther	ADRB1
+ÿOther	ADTRP
+ÿOther	AFF1
+ÿOther	AFF3
+ÿOther	AFP
+ÿOther	AGER
+ÿOther	AGMO
+ÿOther	AGPAT1
+ÿOther	AGXT
+ÿOther	AGXT2
+ÿOther	AHNAK
+ÿOther	AHR
+ÿOther	AJAP1
+ÿOther	AK3
+ÿOther	AKAP10
+ÿOther	AKAP13
+ÿOther	AKAP7
+ÿOther	AKR1C3
+ÿOther	AKR1C4
+ÿOther	AKR1D1
+ÿOther	AKT3
+ÿOther	ALDH18A1
+ÿOther	ALDH1L1-AS2
+ÿOther	ALDH2
+ÿOther	ALDH3B2
+ÿOther	ALDH7A1
+ÿOther	ALDOB
+ÿOther	ALG14
+ÿOther	ALMS1
+ÿOther	ALMS1-IT1
+ÿOther	ALMS1P
+ÿOther	ALPL
+ÿOther	ALX3
+ÿOther	AMZ2P1
+ÿOther	ANAPC1
+ÿOther	ANGPTL4
+ÿOther	ANK1
+ÿOther	ANK2
+ÿOther	ANK3
+ÿOther	ANKDD1A
+ÿOther	ANKMY1
+ÿOther	ANKRD30A
+ÿOther	ANKRD33
+ÿOther	ANKRD55
+ÿOther	ANO2
+ÿOther	ANPEP
+ÿOther	ANXA11
+ÿOther	ANXA6
+ÿOther	ANXA9
+ÿOther	AOC1
+ÿOther	AP2B1
+ÿOther	APIP
+ÿOther	APOA4
+ÿOther	APOA5
+ÿOther	APOB
+ÿOther	APOC1
+ÿOther	APOC1P1
+ÿOther	APOE
+ÿOther	APOH
+ÿOther	APOL1
+ÿOther	APOL2
+ÿOther	APOL4
+ÿOther	APOOP1
+ÿOther	APOOP2
+ÿOther	APOOP3
+ÿOther	APOOP5
+ÿOther	AQP1
+ÿOther	AQP9
+ÿOther	AR
+ÿOther	ARAP1
+ÿOther	ARHGAP1
+ÿOther	ARHGAP11A
+ÿOther	ARHGAP17
+ÿOther	ARHGAP24
+ÿOther	ARHGAP42
+ÿOther	ARHGEF19
+ÿOther	ARHGEF3
+ÿOther	ARID1B
+ÿOther	ARID5B
+ÿOther	ARL15
+ÿOther	ARL4C
+ÿOther	ARMC2
+ÿOther	ARNTL
+ÿOther	ARPC1A
+ÿOther	ARSA
+ÿOther	ARSG
+ÿOther	ARVCF
+ÿOther	AS3MT
+ÿOther	ASAP3
+ÿOther	ASB16
+ÿOther	ASB18
+ÿOther	ASCL1
+ÿOther	ASGR1
+ÿOther	ASH2L
+ÿOther	ASIC5
+ÿOther	ASPA
+ÿOther	ASPM
+ÿOther	ASRGL1
+ÿOther	ASS1P10
+ÿOther	ATF6
+ÿOther	ATF7IP
+ÿOther	ATG16L1
+ÿOther	ATG4C
+ÿOther	ATG7
+ÿOther	ATOH7
+ÿOther	ATP10D
+ÿOther	ATP11A
+ÿOther	ATP11AUN
+ÿOther	ATP1B1
+ÿOther	ATP1B2
+ÿOther	ATP2B1
+ÿOther	ATP2B4
+ÿOther	ATP2C2
+ÿOther	ATP5F1P6
+ÿOther	ATP5LP4
+ÿOther	ATP6V0A2
+ÿOther	ATP6V1G1P5
+ÿOther	ATP6V1G2-DDX39B
+ÿOther	ATP6V1G3
+ÿOther	ATP8B1
+ÿOther	ATXN2
+ÿOther	AUTS2
+ÿOther	AXIN1
+ÿOther	B3GNT3
+ÿOther	B3GNT7
+ÿOther	B4GALT1
+ÿOther	B4GALT6
+ÿOther	BACE2
+ÿOther	BACH2
+ÿOther	BAD
+ÿOther	BAG6
+ÿOther	BAIAP2L1
+ÿOther	BAK1
+ÿOther	BANF2
+ÿOther	BANK1
+ÿOther	BANP
+ÿOther	BARX1
+ÿOther	BAZ1B
+ÿOther	BAZ2A
+ÿOther	BBS9
+ÿOther	BCAS3
+ÿOther	BCHE
+ÿOther	BCL11A
+ÿOther	BCL2L11
+ÿOther	BCL3
+ÿOther	BCL6
+ÿOther	BCL7B
+ÿOther	BCMO1
+ÿOther	BCO2
+ÿOther	BEGAIN
+ÿOther	BEST1
+ÿOther	BET1L
+ÿOther	BHMT
+ÿOther	BICC1
+ÿOther	BLOC1S1-RDH5
+ÿOther	BMF
+ÿOther	BMP2
+ÿOther	BNC2
+ÿOther	BNIP3P1
+ÿOther	BPIFC
+ÿOther	BRAP
+ÿOther	BRCA2
+ÿOther	BRD3
+ÿOther	BRF1
+ÿOther	BRINP1
+ÿOther	BRINP2
+ÿOther	BRSK1
+ÿOther	BSN
+ÿOther	BSND
+ÿOther	BSX
+ÿOther	BTBD7P2
+ÿOther	BTF3P7
+ÿOther	BTG4
+ÿOther	BTN1A1
+ÿOther	BTNL2
+ÿOther	BUD13
+ÿOther	BZRAP1
+ÿOther	C10orf107
+ÿOther	C10orf11
+ÿOther	C10orf32
+ÿOther	C10orf32-ASMT
+ÿOther	C11orf30
+ÿOther	C11orf49
+ÿOther	C12orf4
+ÿOther	C12orf42
+ÿOther	C12orf43
+ÿOther	C12orf55
+ÿOther	C12orf65
+ÿOther	C14orf177
+ÿOther	C14orf2
+ÿOther	C14orf39
+ÿOther	C14orf64
+ÿOther	C15orf48
+ÿOther	C15orf60
+ÿOther	C17orf107
+ÿOther	C17orf53
+ÿOther	C17orf67
+ÿOther	C19orf80
+ÿOther	C1DP2
+ÿOther	C1DP3
+ÿOther	C1QTNF7
+ÿOther	C1orf127
+ÿOther	C1orf141
+ÿOther	C1orf167
+ÿOther	C1orf185
+ÿOther	C1orf220
+ÿOther	C1orf53
+ÿOther	C20orf194
+ÿOther	C2CD4B
+ÿOther	C2orf16
+ÿOther	C2orf43
+ÿOther	C2orf54
+ÿOther	C2orf91
+ÿOther	C3
+ÿOther	C3orf27
+ÿOther	C3orf58
+ÿOther	C3orf72
+ÿOther	C4BPB
+ÿOther	C5orf56
+ÿOther	C6orf10
+ÿOther	C6orf48
+ÿOther	C7orf50
+ÿOther	C7orf72
+ÿOther	C7orf76
+ÿOther	C8orf22
+ÿOther	C8orf87
+ÿOther	C9orf3
+ÿOther	CA1
+ÿOther	CA10
+ÿOther	CABLES1
+ÿOther	CACFD1
+ÿOther	CACNA1C
+ÿOther	CACNA1D
+ÿOther	CACNA1I
+ÿOther	CACNB2
+ÿOther	CADM3
+ÿOther	CALM2P1
+ÿOther	CAMK2B
+ÿOther	CAND1.11
+ÿOther	CANX
+ÿOther	CAPN15
+ÿOther	CAPN3
+ÿOther	CAPSL
+ÿOther	CAPZA1
+ÿOther	CAPZB
+ÿOther	CARD10
+ÿOther	CARD9
+ÿOther	CARS
+ÿOther	CASC17
+ÿOther	CASD1
+ÿOther	CASP12
+ÿOther	CASR
+ÿOther	CASZ1
+ÿOther	CAV1
+ÿOther	CBL
+ÿOther	CBLN2
+ÿOther	CBS
+ÿOther	CCDC121
+ÿOther	CCDC141
+ÿOther	CCDC162P
+ÿOther	CCDC170
+ÿOther	CCDC19
+ÿOther	CCDC34P1
+ÿOther	CCDC38
+ÿOther	CCDC57
+ÿOther	CCDC71L
+ÿOther	CCDC85A
+ÿOther	CCDC88B
+ÿOther	CCDC93
+ÿOther	CCND2
+ÿOther	CCND3
+ÿOther	CCNT2-AS1
+ÿOther	CCR3
+ÿOther	CD163
+ÿOther	CD226
+ÿOther	CD247
+ÿOther	CD276
+ÿOther	CD300LF
+ÿOther	CD34
+ÿOther	CD36
+ÿOther	CD46
+ÿOther	CD8B
+ÿOther	CD9
+ÿOther	CDC123
+ÿOther	CDC42EP1
+ÿOther	CDC42P6
+ÿOther	CDCA7
+ÿOther	CDH10
+ÿOther	CDH13
+ÿOther	CDH4
+ÿOther	CDH8
+ÿOther	CDHR3
+ÿOther	CDK10
+ÿOther	CDK17
+ÿOther	CDK2
+ÿOther	CDK5RAP1
+ÿOther	CDK6
+ÿOther	CDKAL1
+ÿOther	CDKN2A
+ÿOther	CDKN2B
+ÿOther	CDKN2B-AS1
+ÿOther	CDT1
+ÿOther	CELSR2
+ÿOther	CENPW
+ÿOther	CEP57L1
+ÿOther	CEP76
+ÿOther	CEP85L
+ÿOther	CEP89
+ÿOther	CEPT1
+ÿOther	CERS2
+ÿOther	CERS4
+ÿOther	CETP
+ÿOther	CFDP1
+ÿOther	CFH
+ÿOther	CFHR3
+ÿOther	CFHR4
+ÿOther	CFHR5
+ÿOther	CHD9
+ÿOther	CHEK2
+ÿOther	CHI3L1
+ÿOther	CHL1
+ÿOther	CHMP1A
+ÿOther	CHRDL1
+ÿOther	CHRM2
+ÿOther	CHRNA3
+ÿOther	CHRNB3
+ÿOther	CHRNG
+ÿOther	CHST3
+ÿOther	CHSY1
+ÿOther	CHURC1-FNTB
+ÿOther	CICP17
+ÿOther	CILP2
+ÿOther	CITED2
+ÿOther	CLCN6
+ÿOther	CLDN10
+ÿOther	CLDN14
+ÿOther	CLEC14A
+ÿOther	CLEC16A
+ÿOther	CLEC2D
+ÿOther	CLNK
+ÿOther	CLPTM1L
+ÿOther	CLSTN3
+ÿOther	CLYBL
+ÿOther	CMIP
+ÿOther	CMSS1
+ÿOther	CMTM6
+ÿOther	CNN3
+ÿOther	CNNM2
+ÿOther	CNOT1
+ÿOther	CNRIP1
+ÿOther	CNTF
+ÿOther	CNTN4
+ÿOther	CNTNAP4
+ÿOther	COBLL1
+ÿOther	COL11A2
+ÿOther	COL17A1
+ÿOther	COL1A2
+ÿOther	COL27A1
+ÿOther	COL4A1
+ÿOther	COL4A3
+ÿOther	COL5A1
+ÿOther	COL8A2
+ÿOther	COLEC10
+ÿOther	COMT
+ÿOther	COPZ1
+ÿOther	COX6B1P6
+ÿOther	COX6CP1
+ÿOther	COX8BP
+ÿOther	CP
+ÿOther	CPED1
+ÿOther	CPLX3
+ÿOther	CPN1
+ÿOther	CPNE8
+ÿOther	CPS1
+ÿOther	CPS1-IT1
+ÿOther	CPSF2
+ÿOther	CPT1A
+ÿOther	CR1
+ÿOther	CRAT
+ÿOther	CRB1
+ÿOther	CRBN
+ÿOther	CRCT1
+ÿOther	CREBRF
+ÿOther	CRHR1
+ÿOther	CRP
+ÿOther	CRPP1
+ÿOther	CRTC1
+ÿOther	CRY2
+ÿOther	CRYGS
+ÿOther	CSF1
+ÿOther	CSF3
+ÿOther	CSK
+ÿOther	CSMD1
+ÿOther	CSNK1G3
+ÿOther	CSNK2A2
+ÿOther	CSRNP3
+ÿOther	CST3
+ÿOther	CST9
+ÿOther	CST9L
+ÿOther	CSTA
+ÿOther	CTC-436P18.1
+ÿOther	CTC1
+ÿOther	CTCFL
+ÿOther	CTD-2337A12.1
+ÿOther	CTF2P
+ÿOther	CTLA4
+ÿOther	CTNNA3
+ÿOther	CTSS
+ÿOther	CTSZ
+ÿOther	CUBN
+ÿOther	CUX2
+ÿOther	CXCL3
+ÿOther	CXCL5
+ÿOther	CXCR5
+ÿOther	CYB5AP3
+ÿOther	CYB5B
+ÿOther	CYC1
+ÿOther	CYCSP16
+ÿOther	CYCSP17
+ÿOther	CYLD
+ÿOther	CYP17A1
+ÿOther	CYP19A1
+ÿOther	CYP24A1
+ÿOther	CYP26A1
+ÿOther	CYP2C115P
+ÿOther	CYP2C19
+ÿOther	CYP2C59P
+ÿOther	CYP2C8
+ÿOther	CYP2C9
+ÿOther	CYP4A11
+ÿOther	CYP4F2
+ÿOther	CYP4Z2P
+ÿOther	CYP7A1
+ÿOther	DACH1
+ÿOther	DAGLA
+ÿOther	DAGLB
+ÿOther	DAOA-AS1
+ÿOther	DBNDD1
+ÿOther	DCAF4L2
+ÿOther	DCDC1
+ÿOther	DCDC5
+ÿOther	DCHS2
+ÿOther	DCLK1
+ÿOther	DCLK2
+ÿOther	DCSTAMP
+ÿOther	DDAH1
+ÿOther	DDC
+ÿOther	DDRGK1
+ÿOther	DDX1
+ÿOther	DDX18P5
+ÿOther	DDX20P1
+ÿOther	DDX39AP1
+ÿOther	DDX39B
+ÿOther	DDX6
+ÿOther	DEFA10P
+ÿOther	DEFA9P
+ÿOther	DENND1A
+ÿOther	DENND4A
+ÿOther	DEPDC5
+ÿOther	DET1
+ÿOther	DFNB31
+ÿOther	DGAT2
+ÿOther	DGCR5
+ÿOther	DGKD
+ÿOther	DGKG
+ÿOther	DGKH
+ÿOther	DGKK
+ÿOther	DHH
+ÿOther	DHX15
+ÿOther	DIEXF
+ÿOther	DIO1
+ÿOther	DIP2B
+ÿOther	DIP2C
+ÿOther	DISC1
+ÿOther	DKFZP434F142
+ÿOther	DLC1
+ÿOther	DLG2
+ÿOther	DLG4
+ÿOther	DLG5
+ÿOther	DLGAP5
+ÿOther	DLK1
+ÿOther	DMBX1
+ÿOther	DMGDH
+ÿOther	DMRTA1
+ÿOther	DNAH11
+ÿOther	DNAJC13
+ÿOther	DNER
+ÿOther	DNM3
+ÿOther	DNMBP-AS1
+ÿOther	DOCK1
+ÿOther	DOCK4
+ÿOther	DOCK6
+ÿOther	DOCK7
+ÿOther	DOCK8
+ÿOther	DOK6
+ÿOther	DOK7
+ÿOther	DOT1L
+ÿOther	DPEP1
+ÿOther	DPEP3
+ÿOther	DPF3
+ÿOther	DPP9
+ÿOther	DPT
+ÿOther	DPY30
+ÿOther	DPYSL5
+ÿOther	DRAM2
+ÿOther	DSCAML1
+ÿOther	DSP
+ÿOther	DUSP10
+ÿOther	DUTP5
+ÿOther	DUXA
+ÿOther	DXO
+ÿOther	DYNLRB2
+ÿOther	E2F4
+ÿOther	EBF1
+ÿOther	ECEL1
+ÿOther	ECM1P1
+ÿOther	EDA2R
+ÿOther	EDEM2
+ÿOther	EDN1
+ÿOther	EDNRB-AS1
+ÿOther	EEF1A1P6
+ÿOther	EFCAB13
+ÿOther	EFEMP1
+ÿOther	EFHD1
+ÿOther	EGFL8
+ÿOther	EHBP1
+ÿOther	EHD3
+ÿOther	EHF
+ÿOther	EHMT2
+ÿOther	EIF2AK3
+ÿOther	EIF2S2P1
+ÿOther	EIF3E
+ÿOther	EIF4EBP2P3
+ÿOther	EIF4HP1
+ÿOther	EIF6
+ÿOther	ELF5
+ÿOther	ELL
+ÿOther	ELL2
+ÿOther	ELMO1
+ÿOther	ELOVL2
+ÿOther	ELOVL2-AS1
+ÿOther	ELTD1
+ÿOther	EMX2
+ÿOther	EN1
+ÿOther	ENOX1
+ÿOther	ENPEP
+ÿOther	ENSAP1
+ÿOther	EPDR1
+ÿOther	EPGN
+ÿOther	EPHA2
+ÿOther	EPHA3
+ÿOther	EPS15L1
+ÿOther	EPS15P1
+ÿOther	EPS8L3
+ÿOther	ERBB3
+ÿOther	EREG
+ÿOther	ERG
+ÿOther	ESR1
+ÿOther	ETFDH
+ÿOther	ETS1
+ÿOther	EVI5
+ÿOther	EXO1
+ÿOther	EXOC2
+ÿOther	EXOC3L1
+ÿOther	EXOC3L2
+ÿOther	EXOC3L4
+ÿOther	EXOC6
+ÿOther	F10
+ÿOther	F12
+ÿOther	F13A1
+ÿOther	F2
+ÿOther	F2R
+ÿOther	F2RL1
+ÿOther	F3
+ÿOther	F5
+ÿOther	F7
+ÿOther	FABP3P2
+ÿOther	FADS1
+ÿOther	FADS2
+ÿOther	FADS3
+ÿOther	FAM110C
+ÿOther	FAM117B
+ÿOther	FAM13A
+ÿOther	FAM150B
+ÿOther	FAM171A2
+ÿOther	FAM200A
+ÿOther	FAM204BP
+ÿOther	FAM210A
+ÿOther	FAM227B
+ÿOther	FAM3B
+ÿOther	FAM3C
+ÿOther	FAM46A
+ÿOther	FAM53B
+ÿOther	FAM9A
+ÿOther	FAM9B
+ÿOther	FANCA
+ÿOther	FAR2
+ÿOther	FARP2
+ÿOther	FAT1P1
+ÿOther	FBLN1
+ÿOther	FBN3
+ÿOther	FBXL13
+ÿOther	FBXL14
+ÿOther	FBXL17
+ÿOther	FBXO15
+ÿOther	FBXO39
+ÿOther	FBXO7
+ÿOther	FCER1A
+ÿOther	FCGR2A
+ÿOther	FCGR2C
+ÿOther	FCGR3A
+ÿOther	FCHO1
+ÿOther	FCRL3
+ÿOther	FEN1
+ÿOther	FER1L4
+ÿOther	FES
+ÿOther	FFAR4
+ÿOther	FGA
+ÿOther	FGB
+ÿOther	FGF21
+ÿOther	FGF5
+ÿOther	FGF7
+ÿOther	FGFR2
+ÿOther	FGFRL1
+ÿOther	FGG
+ÿOther	FIGN
+ÿOther	FIGNL2
+ÿOther	FLI1
+ÿOther	FLJ20021
+ÿOther	FLJ31104
+ÿOther	FLJ33360
+ÿOther	FLJ40448
+ÿOther	FLJ43585
+ÿOther	FLJ43879
+ÿOther	FMN2
+ÿOther	FMO3
+ÿOther	FMO6P
+ÿOther	FN1
+ÿOther	FN3KRP
+ÿOther	FNDC3B
+ÿOther	FNDC4
+ÿOther	FNTB
+ÿOther	FOXA2
+ÿOther	FOXE1
+ÿOther	FOXL1
+ÿOther	FOXO1
+ÿOther	FOXP1
+ÿOther	FPR3
+ÿOther	FRK
+ÿOther	FRMD5
+ÿOther	FSHR
+ÿOther	FTCDNL1
+ÿOther	FTH1P7
+ÿOther	FTLP15
+ÿOther	FTO
+ÿOther	FUBP3
+ÿOther	FUT1
+ÿOther	FUT2
+ÿOther	FUT6
+ÿOther	FUT8
+ÿOther	G6PC2
+ÿOther	G6PD
+ÿOther	GAB2
+ÿOther	GABBR2
+ÿOther	GABRR1
+ÿOther	GADL1
+ÿOther	GALNT2
+ÿOther	GALNT3
+ÿOther	GAPDHP31
+ÿOther	GAPDHP60
+ÿOther	GAS7
+ÿOther	GAS8
+ÿOther	GATAD2A
+ÿOther	GATM
+ÿOther	GBAP1
+ÿOther	GBE1
+ÿOther	GBX2
+ÿOther	GC
+ÿOther	GCDH
+ÿOther	GCFC2
+ÿOther	GCK
+ÿOther	GCKR
+ÿOther	GCSAML
+ÿOther	GEMIN8P2
+ÿOther	GGT1
+ÿOther	GIPR
+ÿOther	GJA1
+ÿOther	GJD2
+ÿOther	GLCCI1
+ÿOther	GLI2
+ÿOther	GLIS3
+ÿOther	GLRX3
+ÿOther	GLS2
+ÿOther	GLT6D1
+ÿOther	GLT8D2
+ÿOther	GLULP3
+ÿOther	GLULP6
+ÿOther	GLYAT
+ÿOther	GMPR
+ÿOther	GNA13
+ÿOther	GNAS
+ÿOther	GNB4
+ÿOther	GNG11
+ÿOther	GNG12-AS1
+ÿOther	GNG5P5
+ÿOther	GNL3
+ÿOther	GNPATP
+ÿOther	GOSR2
+ÿOther	GOT1
+ÿOther	GOT2P1
+ÿOther	GP1BA
+ÿOther	GPAA1
+ÿOther	GPAM
+ÿOther	GPATCH1
+ÿOther	GPC5
+ÿOther	GPC6
+ÿOther	GPCPD1
+ÿOther	GPLD1
+ÿOther	GPN1
+ÿOther	GPR126
+ÿOther	GPR133
+ÿOther	GPRC6A
+ÿOther	GREB1
+ÿOther	GRIA1
+ÿOther	GRIA4
+ÿOther	GRIN2A
+ÿOther	GRK6
+ÿOther	GRM5
+ÿOther	GRTP1
+ÿOther	GS1-122H1.2
+ÿOther	GS1-259H13.2
+ÿOther	GSC2
+ÿOther	GSDMA
+ÿOther	GSDMB
+ÿOther	GSDMC
+ÿOther	GSK3B
+ÿOther	GSTCD
+ÿOther	GSTM5P1
+ÿOther	GSTT2B
+ÿOther	GTF2H1
+ÿOther	GTF2H4
+ÿOther	GTF3AP1
+ÿOther	GTF3AP5
+ÿOther	GTPBP10
+ÿOther	GTSCR1
+ÿOther	GUCY1A3
+ÿOther	GYPA
+ÿOther	GYS1
+ÿOther	HABP2
+ÿOther	HACE1
+ÿOther	HAO2-IT1
+ÿOther	HAVCR1
+ÿOther	HBA1
+ÿOther	HBB
+ÿOther	HBBP1
+ÿOther	HCG22
+ÿOther	HCG23
+ÿOther	HCG26
+ÿOther	HCG9
+ÿOther	HCN4
+ÿOther	HCP5
+ÿOther	HDAC4
+ÿOther	HDAC5
+ÿOther	HDAC9
+ÿOther	HEATR4
+ÿOther	HECTD4
+ÿOther	HELQ
+ÿOther	HERC2
+ÿOther	HERPUD1
+ÿOther	HERPUD2
+ÿOther	HEY2
+ÿOther	HEYL
+ÿOther	HFE
+ÿOther	HGFAC
+ÿOther	HHAT
+ÿOther	HHEX
+ÿOther	HHIP-AS1
+ÿOther	HIF1AN
+ÿOther	HIGD1AP18
+ÿOther	HIST1H1T
+ÿOther	HK1
+ÿOther	HKDC1
+ÿOther	HLA-B
+ÿOther	HLA-C
+ÿOther	HLA-DOA
+ÿOther	HLA-DPA1
+ÿOther	HLA-DPB1
+ÿOther	HLA-DQA1
+ÿOther	HLA-DQB1
+ÿOther	HLA-DQB2
+ÿOther	HLA-DRA
+ÿOther	HLA-DRB6
+ÿOther	HLF
+ÿOther	HMGA2
+ÿOther	HMGB1P1
+ÿOther	HMGB1P13
+ÿOther	HMGB1P17
+ÿOther	HMGB1P36
+ÿOther	HMGB3P18
+ÿOther	HMGB3P26
+ÿOther	HMGB3P3
+ÿOther	HMGCR
+ÿOther	HMGN1P19
+ÿOther	HMGN2P14
+ÿOther	HMGN2P18
+ÿOther	HMGN2P29
+ÿOther	HNF1A
+ÿOther	HNF1A-AS1
+ÿOther	HNF1B
+ÿOther	HNF4A
+ÿOther	HNF4G
+ÿOther	HNRNPA1P48
+ÿOther	HNRNPA1P60
+ÿOther	HNRNPA1P67
+ÿOther	HNRNPA3P8
+ÿOther	HNRNPKP5
+ÿOther	HOGA1
+ÿOther	HORMAD2
+ÿOther	HOXC4
+ÿOther	HOXC5
+ÿOther	HOXC6
+ÿOther	HPN
+ÿOther	HPN-AS1
+ÿOther	HPR
+ÿOther	HPRTP2
+ÿOther	HPS5
+ÿOther	HPSE2
+ÿOther	HRK
+ÿOther	HSD17B6
+ÿOther	HSD3B2
+ÿOther	HSP90AA6P
+ÿOther	HSP90AB3P
+ÿOther	HSP90B3P
+ÿOther	HSPA1L
+ÿOther	HSPB8
+ÿOther	HSPD1P4
+ÿOther	HSPD1P6
+ÿOther	HSPD1P8
+ÿOther	HSPE1P1
+ÿOther	HTR1A
+ÿOther	HTR4
+ÿOther	HTR7
+ÿOther	HYALP1
+ÿOther	HYKK
+ÿOther	IBTK
+ÿOther	ICA1
+ÿOther	ICAM1
+ÿOther	ICAM4
+ÿOther	ID4
+ÿOther	IDO2
+ÿOther	IDUA
+ÿOther	IFI16
+ÿOther	IFIH1
+ÿOther	IFNL3
+ÿOther	IFNL3P1
+ÿOther	IFNL4
+ÿOther	IGF1
+ÿOther	IGF1R
+ÿOther	IGF2
+ÿOther	IGF2-AS
+ÿOther	IGF2BP2
+ÿOther	IGFBP3
+ÿOther	IGFBP5
+ÿOther	IGH
+ÿOther	IGSF11
+ÿOther	IKZF1
+ÿOther	IKZF2
+ÿOther	IKZF3
+ÿOther	IKZF4
+ÿOther	IL10
+ÿOther	IL12A-AS1
+ÿOther	IL12RB2
+ÿOther	IL13
+ÿOther	IL17D
+ÿOther	IL18
+ÿOther	IL18R1
+ÿOther	IL18RAP
+ÿOther	IL1F10
+ÿOther	IL1R1
+ÿOther	IL1RL1
+ÿOther	IL1RL2
+ÿOther	IL1RN
+ÿOther	IL2
+ÿOther	IL21
+ÿOther	IL23R
+ÿOther	IL27
+ÿOther	IL2RA
+ÿOther	IL2RB
+ÿOther	IL33
+ÿOther	IL5
+ÿOther	IL6
+ÿOther	IL6R
+ÿOther	IL7R
+ÿOther	ILKAP
+ÿOther	INCENP
+ÿOther	INHBA
+ÿOther	INHBC
+ÿOther	INS
+ÿOther	INS-IGF2
+ÿOther	INSIG2
+ÿOther	INSR
+ÿOther	INTS12
+ÿOther	INTS6P1
+ÿOther	INTS7
+ÿOther	IP6K3
+ÿOther	IRAK1BP1
+ÿOther	IREB2
+ÿOther	IRF1
+ÿOther	IRF4
+ÿOther	IRF6
+ÿOther	IRF8
+ÿOther	ISCA1P1
+ÿOther	ITFG3
+ÿOther	ITGA1
+ÿOther	ITGA4
+ÿOther	ITGA9
+ÿOther	ITIH1
+ÿOther	ITIH3
+ÿOther	ITPA
+ÿOther	ITPK1
+ÿOther	ITPK1-AS1
+ÿOther	IVD
+ÿOther	IZUMO3
+ÿOther	JADE2
+ÿOther	JAG1
+ÿOther	JKAMPP1
+ÿOther	JMJD1C
+ÿOther	JUP
+ÿOther	KALRN
+ÿOther	KANSL1
+ÿOther	KATNBL1P2
+ÿOther	KBTBD8
+ÿOther	KCND3
+ÿOther	KCNE1
+ÿOther	KCNE2
+ÿOther	KCNE4
+ÿOther	KCNH2
+ÿOther	KCNJ6
+ÿOther	KCNQ1
+ÿOther	KCNQ5
+ÿOther	KCNV2
+ÿOther	KCTD10
+ÿOther	KCTD4
+ÿOther	KDM3B
+ÿOther	KIAA0232
+ÿOther	KIAA0947
+ÿOther	KIAA1598
+ÿOther	KIAA1755
+ÿOther	KIAA1919
+ÿOther	KIAA2018
+ÿOther	KIF1B
+ÿOther	KIRREL3-AS3
+ÿOther	KIT
+ÿOther	KITLG
+ÿOther	KLF12
+ÿOther	KLF14
+ÿOther	KLF3P2
+ÿOther	KLHDC8B
+ÿOther	KLHL42
+ÿOther	KLK15
+ÿOther	KLK2
+ÿOther	KLK3
+ÿOther	KLKB1
+ÿOther	KLKP1
+ÿOther	KNG1
+ÿOther	KNOP1P1
+ÿOther	KRT18P13
+ÿOther	KRT18P18
+ÿOther	KRT18P30
+ÿOther	KRT18P51
+ÿOther	KRT18P52
+ÿOther	KRT19P4
+ÿOther	KRT8P21
+ÿOther	KRT8P25
+ÿOther	KRT8P28
+ÿOther	KRTCAP2
+ÿOther	LACC1
+ÿOther	LACTB
+ÿOther	LAMA2
+ÿOther	LAMB1
+ÿOther	LARP4B
+ÿOther	LARP6
+ÿOther	LBH
+ÿOther	LBX1
+ÿOther	LCE3E
+ÿOther	LCN12
+ÿOther	LCRB
+ÿOther	LDHA
+ÿOther	LDHBP3
+ÿOther	LDLR
+ÿOther	LEKR1
+ÿOther	LEMD3
+ÿOther	LEPR
+ÿOther	LEPREL4
+ÿOther	LHCGR
+ÿOther	LHFP
+ÿOther	LHX3
+ÿOther	LHX8
+ÿOther	LIG3
+ÿOther	LILRA5
+ÿOther	LIN28B
+ÿOther	LINC00261
+ÿOther	LINC00310
+ÿOther	LINC00331
+ÿOther	LINC00347
+ÿOther	LINC00378
+ÿOther	LINC00417
+ÿOther	LINC00461
+ÿOther	LINC00470
+ÿOther	LINC00473
+ÿOther	LINC00478
+ÿOther	LINC00485
+ÿOther	LINC00523
+ÿOther	LINC00535
+ÿOther	LINC00540
+ÿOther	LINC00577
+ÿOther	LINC00578
+ÿOther	LINC00581
+ÿOther	LINC00583
+ÿOther	LINC00603
+ÿOther	LINC00607
+ÿOther	LINC00609
+ÿOther	LINC00615
+ÿOther	LINC00620
+ÿOther	LINC00637
+ÿOther	LINC00638
+ÿOther	LINC00645
+ÿOther	LINC00649
+ÿOther	LINC00664
+ÿOther	LINC00673
+ÿOther	LINC00709
+ÿOther	LINC00861
+ÿOther	LINC00880
+ÿOther	LINC00885
+ÿOther	LINC00899
+ÿOther	LINC00911
+ÿOther	LINC00919
+ÿOther	LINC00924
+ÿOther	LINC00928
+ÿOther	LINC00942
+ÿOther	LINC00977
+ÿOther	LINC01010
+ÿOther	LINC01021
+ÿOther	LINC01080
+ÿOther	LINC01082
+ÿOther	LINC01094
+ÿOther	LINC01100
+ÿOther	LINC01101
+ÿOther	LINC01104
+ÿOther	LINC01107
+ÿOther	LINC01132
+ÿOther	LINC01134
+ÿOther	LINC01139
+ÿOther	LINC01149
+ÿOther	LINC01152
+ÿOther	LINC01153
+ÿOther	LINC01197
+ÿOther	LINC01235
+ÿOther	LINC01263
+ÿOther	LINGO1
+ÿOther	LIPC
+ÿOther	LIPG
+ÿOther	LITAF
+ÿOther	LMAN2L
+ÿOther	LNX1-AS2
+ÿOther	LOC100128334
+ÿOther	LOC100128714
+ÿOther	LOC100129427
+ÿOther	LOC100129620
+ÿOther	LOC100129781
+ÿOther	LOC100130996
+ÿOther	LOC100132354
+ÿOther	LOC100270679
+ÿOther	LOC100287944
+ÿOther	LOC100289058
+ÿOther	LOC100289473
+ÿOther	LOC100294362
+ÿOther	LOC100505549
+ÿOther	LOC100505718
+ÿOther	LOC100506393
+ÿOther	LOC100506403
+ÿOther	LOC100506532
+ÿOther	LOC100506606
+ÿOther	LOC100506713
+ÿOther	LOC100507053
+ÿOther	LOC100507346
+ÿOther	LOC100507389
+ÿOther	LOC100507506
+ÿOther	LOC100996405
+ÿOther	LOC101926892
+ÿOther	LOC101927066
+ÿOther	LOC101927426
+ÿOther	LOC101927437
+ÿOther	LOC101927697
+ÿOther	LOC101927705
+ÿOther	LOC101927891
+ÿOther	LOC101928118
+ÿOther	LOC101928231
+ÿOther	LOC101928272
+ÿOther	LOC101928281
+ÿOther	LOC101928337
+ÿOther	LOC101928338
+ÿOther	LOC101928448
+ÿOther	LOC101928596
+ÿOther	LOC101928638
+ÿOther	LOC101928661
+ÿOther	LOC101928694
+ÿOther	LOC101928765
+ÿOther	LOC101928822
+ÿOther	LOC101928947
+ÿOther	LOC101928994
+ÿOther	LOC101929054
+ÿOther	LOC101929072
+ÿOther	LOC101929118
+ÿOther	LOC101929163
+ÿOther	LOC101929414
+ÿOther	LOC101929512
+ÿOther	LOC101929558
+ÿOther	LOC101929615
+ÿOther	LOC101929664
+ÿOther	LOC101929667
+ÿOther	LOC101929680
+ÿOther	LOC101929685
+ÿOther	LOC102723370
+ÿOther	LOC102723403
+ÿOther	LOC102723522
+ÿOther	LOC102723797
+ÿOther	LOC102723861
+ÿOther	LOC102723878
+ÿOther	LOC102723902
+ÿOther	LOC102724063
+ÿOther	LOC102724068
+ÿOther	LOC102724072
+ÿOther	LOC102724137
+ÿOther	LOC102724164
+ÿOther	LOC102724266
+ÿOther	LOC102724307
+ÿOther	LOC102724461
+ÿOther	LOC102724493
+ÿOther	LOC102724596
+ÿOther	LOC102724659
+ÿOther	LOC102724699
+ÿOther	LOC102724766
+ÿOther	LOC102724957
+ÿOther	LOC102724968
+ÿOther	LOC102724985
+ÿOther	LOC157273
+ÿOther	LOC349160
+ÿOther	LOC550643
+ÿOther	LOC553103
+ÿOther	LOC646021
+ÿOther	LOC654841
+ÿOther	LOC727896
+ÿOther	LOC727993
+ÿOther	LOXL1
+ÿOther	LOXL1-AS1
+ÿOther	LOXL4
+ÿOther	LPA
+ÿOther	LPAL2
+ÿOther	LPAR1
+ÿOther	LPCAT2
+ÿOther	LPGAT1
+ÿOther	LPIN2
+ÿOther	LPL
+ÿOther	LPP
+ÿOther	LPP-AS2
+ÿOther	LRAT
+ÿOther	LRCH1
+ÿOther	LRIG1
+ÿOther	LRP1
+ÿOther	LRP2
+ÿOther	LRP5
+ÿOther	LRRC16A
+ÿOther	LRRC20
+ÿOther	LRRC32
+ÿOther	LRRC34
+ÿOther	LRRC3C
+ÿOther	LRRC7
+ÿOther	LRRC75B
+ÿOther	LRRIQ3
+ÿOther	LRRK1
+ÿOther	LRRTM1
+ÿOther	LSM1
+ÿOther	LSM3P4
+ÿOther	LSP1P3
+ÿOther	LUC7L
+ÿOther	LY86-AS1
+ÿOther	LYPLAL1
+ÿOther	LYRM9
+ÿOther	LYZL2
+ÿOther	MAD1L1
+ÿOther	MADD
+ÿOther	MAF
+ÿOther	MAFB
+ÿOther	MAGI3
+ÿOther	MAGOH
+ÿOther	MAGOH3P
+ÿOther	MALAT1
+ÿOther	MAML1
+ÿOther	MAML3
+ÿOther	MANBA
+ÿOther	MAP1LC3P
+ÿOther	MAP3K19
+ÿOther	MAP4
+ÿOther	MAP4K2
+ÿOther	MAPRE1P2
+ÿOther	MAPT
+ÿOther	MAPT-AS1
+ÿOther	MARC1
+ÿOther	MARCH8
+ÿOther	MARK2P11
+ÿOther	MARK3
+ÿOther	MARK4
+ÿOther	MARVELD3
+ÿOther	MATK
+ÿOther	MAU2
+ÿOther	MAX
+ÿOther	MBL1P
+ÿOther	MBL2
+ÿOther	MC1R
+ÿOther	MC4R
+ÿOther	MCCC1
+ÿOther	MCF2L
+ÿOther	MCF2L-AS1
+ÿOther	MCHR2
+ÿOther	MCM8
+ÿOther	MCPH1
+ÿOther	MDM1
+ÿOther	MDM4
+ÿOther	MECOM
+ÿOther	MEF2C
+ÿOther	MEF2C-AS1
+ÿOther	MEI4
+ÿOther	MEIS1
+ÿOther	MEPE
+ÿOther	MERTK
+ÿOther	MET
+ÿOther	METTL4
+ÿOther	MFAP2
+ÿOther	MFN2
+ÿOther	MFSD11
+ÿOther	MGAM
+ÿOther	MGAT3
+ÿOther	MGAT5
+ÿOther	MGAT5B
+ÿOther	MGC12916
+ÿOther	MIA-RAB4B
+ÿOther	MICAL3
+ÿOther	MICALL2
+ÿOther	MICB
+ÿOther	MICU2
+ÿOther	MIF
+ÿOther	MINOS1
+ÿOther	MIPEP
+ÿOther	MIR1179
+ÿOther	MIR1204
+ÿOther	MIR1208
+ÿOther	MIR122
+ÿOther	MIR1233-2
+ÿOther	MIR1273D
+ÿOther	MIR1287
+ÿOther	MIR1295B
+ÿOther	MIR1296
+ÿOther	MIR1302-1
+ÿOther	MIR1322
+ÿOther	MIR137HG
+ÿOther	MIR148A
+ÿOther	MIR1538
+ÿOther	MIR184
+ÿOther	MIR193B
+ÿOther	MIR2113
+ÿOther	MIR22
+ÿOther	MIR22HG
+ÿOther	MIR29A
+ÿOther	MIR29B2
+ÿOther	MIR3125
+ÿOther	MIR3155B
+ÿOther	MIR3169
+ÿOther	MIR3660
+ÿOther	MIR3662
+ÿOther	MIR3665
+ÿOther	MIR3685
+ÿOther	MIR3686
+ÿOther	MIR3688-2
+ÿOther	MIR378C
+ÿOther	MIR4278
+ÿOther	MIR4309
+ÿOther	MIR4418
+ÿOther	MIR4432
+ÿOther	MIR4437
+ÿOther	MIR4523
+ÿOther	MIR4669
+ÿOther	MIR4700
+ÿOther	MIR4708
+ÿOther	MIR4752
+ÿOther	MIR4761
+ÿOther	MIR4776-1
+ÿOther	MIR548AG1
+ÿOther	MIR548AQ
+ÿOther	MIR548AV
+ÿOther	MIR5683
+ÿOther	MIR5702
+ÿOther	MIR5705
+ÿOther	MIR573
+ÿOther	MIR6074
+ÿOther	MIR611
+ÿOther	MIR612
+ÿOther	MIR636
+ÿOther	MIR661
+ÿOther	MIR6746
+ÿOther	MIR6774
+ÿOther	MIR6880
+ÿOther	MIR6891
+ÿOther	MIR7702
+ÿOther	MIR7843
+ÿOther	MIR8062
+ÿOther	MIR8081
+ÿOther	MKNK1-AS1
+ÿOther	MLIP
+ÿOther	MLLT10
+ÿOther	MLXIP
+ÿOther	MLXIPL
+ÿOther	MMAB
+ÿOther	MMP12
+ÿOther	MMP15
+ÿOther	MMP24-AS1
+ÿOther	MMP3
+ÿOther	MOBP
+ÿOther	MOCS3P2
+ÿOther	MOGAT2
+ÿOther	MOSPD3
+ÿOther	MOV10
+ÿOther	MPC2
+ÿOther	MPDU1
+ÿOther	MPHOSPH6
+ÿOther	MPO
+ÿOther	MPP1
+ÿOther	MPP3
+ÿOther	MPP7
+ÿOther	MPPED2
+ÿOther	MPTX1
+ÿOther	MROH2A
+ÿOther	MRPL2P1
+ÿOther	MRPL33
+ÿOther	MRPL42P2
+ÿOther	MRPL45P1
+ÿOther	MRPL50P4
+ÿOther	MRPS31P1
+ÿOther	MRPS33P3
+ÿOther	MRPS6
+ÿOther	MRPS6P4
+ÿOther	MS4A3
+ÿOther	MS4A4E
+ÿOther	MS4A6A
+ÿOther	MSL3P1
+ÿOther	MSMB
+ÿOther	MSMO1
+ÿOther	MSRB1P1
+ÿOther	MSRB3
+ÿOther	MTHFD2P7
+ÿOther	MTHFR
+ÿOther	MTMR3
+ÿOther	MTND3P7
+ÿOther	MTND4P20
+ÿOther	MTND4P25
+ÿOther	MTND5P30
+ÿOther	MTNR1B
+ÿOther	MTOR
+ÿOther	MTR
+ÿOther	MUC1
+ÿOther	MUC2
+ÿOther	MUC5AC
+ÿOther	MUC5B
+ÿOther	MUT
+ÿOther	MYB
+ÿOther	MYBPC3
+ÿOther	MYH6
+ÿOther	MYL1
+ÿOther	MYL2
+ÿOther	MYLIP
+ÿOther	MYNN
+ÿOther	MYO10
+ÿOther	MYO1B
+ÿOther	MYO1D
+ÿOther	MYO1E
+ÿOther	MYO9B
+ÿOther	MYRF
+ÿOther	N6AMT2
+ÿOther	NAA25
+ÿOther	NAALAD2
+ÿOther	NAB1
+ÿOther	NAB2
+ÿOther	NACAP4
+ÿOther	NAP1L4P3
+ÿOther	NASP
+ÿOther	NAT2
+ÿOther	NAT8
+ÿOther	NAV3
+ÿOther	NBPF3
+ÿOther	NCAM1
+ÿOther	NCAN
+ÿOther	NCK2
+ÿOther	NCKAP5
+ÿOther	NCL
+ÿOther	NCR3
+ÿOther	NDE1P1
+ÿOther	NDST3
+ÿOther	NDUFB8P3
+ÿOther	NEDD4
+ÿOther	NEDD4L
+ÿOther	NFE2
+ÿOther	NFE2L3
+ÿOther	NFIA
+ÿOther	NFKB1
+ÿOther	NFU1P2
+ÿOther	NGDN
+ÿOther	NGEF
+ÿOther	NHLRC2
+ÿOther	NHS
+ÿOther	NIP7P1
+ÿOther	NKAPL
+ÿOther	NKX2-3
+ÿOther	NKX2-5
+ÿOther	NLRP11
+ÿOther	NLRP3
+ÿOther	NLRP6
+ÿOther	NME8
+ÿOther	NOD2
+ÿOther	NOG
+ÿOther	NOP9
+ÿOther	NOS1AP
+ÿOther	NOS2
+ÿOther	NOTCH4
+ÿOther	NOV
+ÿOther	NOX4
+ÿOther	NPC1L1
+ÿOther	NPFFR2
+ÿOther	NPHP3-AS1
+ÿOther	NPLOC4
+ÿOther	NPM1P33
+ÿOther	NPM1P47
+ÿOther	NPPA-AS1
+ÿOther	NPPB
+ÿOther	NPR3
+ÿOther	NPRL3
+ÿOther	NR1H3
+ÿOther	NR1I3
+ÿOther	NR2F2-AS1
+ÿOther	NR3C2
+ÿOther	NR4A2
+ÿOther	NRCAM
+ÿOther	NRG1
+ÿOther	NRG3
+ÿOther	NRG4
+ÿOther	NRGN
+ÿOther	NRXN2
+ÿOther	NT5C2
+ÿOther	NT5C3AP1
+ÿOther	NTAN1
+ÿOther	NTM
+ÿOther	NUAK2
+ÿOther	NUBP2
+ÿOther	NUCKS1
+ÿOther	NUDT19
+ÿOther	NUP205
+ÿOther	NUPR1
+ÿOther	NUTF2
+ÿOther	NYAP2
+ÿOther	NYNRIN
+ÿOther	OAS1
+ÿOther	OAS3
+ÿOther	OASL
+ÿOther	OBFC1
+ÿOther	OCA2
+ÿOther	ODF3B
+ÿOther	OLFML2B
+ÿOther	OPTN
+ÿOther	OR10J1
+ÿOther	OR10J6P
+ÿOther	OR10J7P
+ÿOther	OR10J8P
+ÿOther	OR10Z1
+ÿOther	OR14C36
+ÿOther	OR2M7
+ÿOther	OR2W3
+ÿOther	OR4A40P
+ÿOther	OR4A46P
+ÿOther	OR4C3
+ÿOther	OR4C46
+ÿOther	OR4C7P
+ÿOther	OR4S1
+ÿOther	OR51B6
+ÿOther	OR51F1
+ÿOther	OR51I1
+ÿOther	OR51I2
+ÿOther	OR51L1
+ÿOther	OR51P1P
+ÿOther	OR51V1
+ÿOther	OR52D1
+ÿOther	OR7E94P
+ÿOther	OR8I2
+ÿOther	ORC4
+ÿOther	ORM1
+ÿOther	OSBPL9P6
+ÿOther	OSTF1P1
+ÿOther	OSTN
+ÿOther	OTOR
+ÿOther	OVOL1
+ÿOther	PA2G4P2
+ÿOther	PABPC4
+ÿOther	PAFAH1B2
+ÿOther	PAG1
+ÿOther	PAH
+ÿOther	PALB2
+ÿOther	PAOX
+ÿOther	PAPD7
+ÿOther	PAPSS1
+ÿOther	PARD3B
+ÿOther	PARK2
+ÿOther	PAX3
+ÿOther	PAX7
+ÿOther	PAX8
+ÿOther	PBRM1
+ÿOther	PBX2
+ÿOther	PBX4
+ÿOther	PCAT4
+ÿOther	PCBP2P3
+ÿOther	PCCA
+ÿOther	PCCB
+ÿOther	PCDH7
+ÿOther	PCIF1
+ÿOther	PCNXL3
+ÿOther	PCSK1
+ÿOther	PCSK2
+ÿOther	PCSK6
+ÿOther	PCSK7
+ÿOther	PCSK9
+ÿOther	PDCD6IPP2
+ÿOther	PDCL3P3
+ÿOther	PDE10A
+ÿOther	PDE3A
+ÿOther	PDE4B
+ÿOther	PDE4D
+ÿOther	PDE7B
+ÿOther	PDE8B
+ÿOther	PDGFB
+ÿOther	PDGFC
+ÿOther	PDGFRA
+ÿOther	PDIA5
+ÿOther	PDILT
+ÿOther	PDX1-AS1
+ÿOther	PDXDC1
+ÿOther	PDYN
+ÿOther	PDZK1
+ÿOther	PDZRN4
+ÿOther	PECR
+ÿOther	PEPD
+ÿOther	PEX5
+ÿOther	PEX5L
+ÿOther	PFN1P10
+ÿOther	PGS1
+ÿOther	PHACTR1
+ÿOther	PHBP1
+ÿOther	PHC1
+ÿOther	PHF19
+ÿOther	PHF23
+ÿOther	PHGDH
+ÿOther	PHLDB1
+ÿOther	PHTF1
+ÿOther	PIBF1
+ÿOther	PIEZO1
+ÿOther	PIGV
+ÿOther	PIK3C2A
+ÿOther	PINX1
+ÿOther	PIP5K1B
+ÿOther	PKD1L2
+ÿOther	PKD2
+ÿOther	PKD2L1
+ÿOther	PKDCC
+ÿOther	PKIA
+ÿOther	PKP1
+ÿOther	PLA2G6
+ÿOther	PLA2G7
+ÿOther	PLA2R1
+ÿOther	PLAG1
+ÿOther	PLAT
+ÿOther	PLCB4
+ÿOther	PLCD3
+ÿOther	PLCE1
+ÿOther	PLCH2
+ÿOther	PLCL1
+ÿOther	PLCL2
+ÿOther	PLEC
+ÿOther	PLEK
+ÿOther	PLEKHA7
+ÿOther	PLEKHG1
+ÿOther	PLEKHO2
+ÿOther	PLG
+ÿOther	PLRG1
+ÿOther	PLTP
+ÿOther	PLXNA2
+ÿOther	PM20D2
+ÿOther	PMEL
+ÿOther	PMFBP1
+ÿOther	PML
+ÿOther	PNLIPRP2
+ÿOther	PNPLA3
+ÿOther	PNRC1
+ÿOther	POLB
+ÿOther	POLG
+ÿOther	POM121L12
+ÿOther	PON1
+ÿOther	POU2AF1
+ÿOther	POU3F2
+ÿOther	POU5F1
+ÿOther	PPARA
+ÿOther	PPARG
+ÿOther	PPARGC1A
+ÿOther	PPCDC
+ÿOther	PPIAP17
+ÿOther	PPID
+ÿOther	PPIP5K1
+ÿOther	PPM1M
+ÿOther	PPP1R11
+ÿOther	PPP1R3B
+ÿOther	PPP2R4
+ÿOther	PPT2-EGFL8
+ÿOther	PRDM11
+ÿOther	PRDM13
+ÿOther	PRDM6
+ÿOther	PRDM8
+ÿOther	PRDM9
+ÿOther	PRDX1
+ÿOther	PRELID1P1
+ÿOther	PRELID2
+ÿOther	PRIM1
+ÿOther	PRKAG2
+ÿOther	PRKCE
+ÿOther	PRKRIRP2
+ÿOther	PRKRIRP3
+ÿOther	PRMT6
+ÿOther	PROC
+ÿOther	PROCR
+ÿOther	PROSP
+ÿOther	PROX1-AS1
+ÿOther	PRPS1P1
+ÿOther	PRR23A
+ÿOther	PRR26
+ÿOther	PRRC2A
+ÿOther	PRSS56
+ÿOther	PSAT1P4
+ÿOther	PSCA
+ÿOther	PSD3
+ÿOther	PSKH1
+ÿOther	PSMB8
+ÿOther	PSMC1P12
+ÿOther	PSMC6P2
+ÿOther	PSMD10P2
+ÿOther	PSMD13
+ÿOther	PSMD3
+ÿOther	PSMD9
+ÿOther	PSORS1C1
+ÿOther	PSORS1C2
+ÿOther	PSORS1C3
+ÿOther	PSPH
+ÿOther	PSRC1
+ÿOther	PTBP1P
+ÿOther	PTCH1
+ÿOther	PTCHD3P3
+ÿOther	PTGDS
+ÿOther	PTGER4
+ÿOther	PTGES3
+ÿOther	PTHLH
+ÿOther	PTMAP8
+ÿOther	PTPN11
+ÿOther	PTPN2
+ÿOther	PTPN22
+ÿOther	PTPRC
+ÿOther	PTPRD
+ÿOther	PTPRJ
+ÿOther	PTPRN2
+ÿOther	PTPRR
+ÿOther	PTX4
+ÿOther	PVRL2
+ÿOther	PVT1
+ÿOther	PXK
+ÿOther	PYHIN1
+ÿOther	PYROXD2
+ÿOther	QPCT
+ÿOther	QRSL1P2
+ÿOther	R3HDM2
+ÿOther	RAB11B
+ÿOther	RAB11FIP2
+ÿOther	RAB37
+ÿOther	RAB3GAP1
+ÿOther	RAB3IL1
+ÿOther	RAB4B
+ÿOther	RAB4B-EGLN2
+ÿOther	RAB5B
+ÿOther	RAB7B
+ÿOther	RAB9BP1
+ÿOther	RAC1P5
+ÿOther	RAD17P1
+ÿOther	RAD50
+ÿOther	RAD51B
+ÿOther	RAET1M
+ÿOther	RAF1
+ÿOther	RAF1P1
+ÿOther	RANBP6
+ÿOther	RAP1A
+ÿOther	RAP1B
+ÿOther	RARB
+ÿOther	RASA2
+ÿOther	RASGEF1A
+ÿOther	RASGRF1
+ÿOther	RASIP1
+ÿOther	RASSF10
+ÿOther	RBBP6P1
+ÿOther	RBFOX1
+ÿOther	RBM38
+ÿOther	RBM5
+ÿOther	RBM6
+ÿOther	RBMS2
+ÿOther	RBPJ
+ÿOther	RCL1
+ÿOther	RCN1
+ÿOther	RCOR1
+ÿOther	RDH5
+ÿOther	RECK
+ÿOther	REEP3
+ÿOther	RENBP
+ÿOther	RET
+ÿOther	REV3L
+ÿOther	RFC4
+ÿOther	RFPL4AP7
+ÿOther	RFT1
+ÿOther	RFX4
+ÿOther	RGS14
+ÿOther	RHBDL2
+ÿOther	RHEBL1
+ÿOther	RHOBTB3
+ÿOther	RIMKLBP2
+ÿOther	RIN3
+ÿOther	RIPK2
+ÿOther	RN7SKP2
+ÿOther	RNA5SP109
+ÿOther	RNA5SP144
+ÿOther	RNA5SP154
+ÿOther	RNA5SP176
+ÿOther	RNA5SP189
+ÿOther	RNA5SP231
+ÿOther	RNA5SP236
+ÿOther	RNA5SP241
+ÿOther	RNA5SP267
+ÿOther	RNA5SP272
+ÿOther	RNA5SP279
+ÿOther	RNA5SP299
+ÿOther	RNA5SP321
+ÿOther	RNA5SP348
+ÿOther	RNA5SP374
+ÿOther	RNA5SP426
+ÿOther	RNA5SP459
+ÿOther	RNA5SP56
+ÿOther	RNA5SP87
+ÿOther	RNA5SP94
+ÿOther	RNASEH2A
+ÿOther	RNASEK
+ÿOther	RNASEK-C17orf49
+ÿOther	RNF145
+ÿOther	RNF207
+ÿOther	RNF212
+ÿOther	RNF213
+ÿOther	RNF219-AS1
+ÿOther	RNF7
+ÿOther	RNMTL1P2
+ÿOther	RNPEP
+ÿOther	RNPS1P1
+ÿOther	RNU3P3
+ÿOther	RNU4ATAC2P
+ÿOther	RNU5E-1
+ÿOther	RNU5E-7P
+ÿOther	RNU6-21P
+ÿOther	RNU6-66P
+ÿOther	RNU7-14P
+ÿOther	RNU7-18P
+ÿOther	RNU7-2P
+ÿOther	RNU7-89P
+ÿOther	RNY4P18
+ÿOther	RNY5P7
+ÿOther	RNY5P9
+ÿOther	RORA
+ÿOther	RORB
+ÿOther	RPA2P2
+ÿOther	RPE
+ÿOther	RPF2P2
+ÿOther	RPL10P16
+ÿOther	RPL11P1
+ÿOther	RPL12P33
+ÿOther	RPL12P36
+ÿOther	RPL13AP9
+ÿOther	RPL13P6
+ÿOther	RPL15P15
+ÿOther	RPL17P44
+ÿOther	RPL18P9
+ÿOther	RPL19P11
+ÿOther	RPL21P102
+ÿOther	RPL21P17
+ÿOther	RPL21P41
+ÿOther	RPL21P44
+ÿOther	RPL21P67
+ÿOther	RPL22P13
+ÿOther	RPL22P18
+ÿOther	RPL23AP12
+ÿOther	RPL23AP39
+ÿOther	RPL23AP46
+ÿOther	RPL23AP48
+ÿOther	RPL23P3
+ÿOther	RPL26P5
+ÿOther	RPL27P2
+ÿOther	RPL29P26
+ÿOther	RPL29P30
+ÿOther	RPL29P4
+ÿOther	RPL29P5
+ÿOther	RPL3
+ÿOther	RPL30P9
+ÿOther	RPL31P14
+ÿOther	RPL31P23
+ÿOther	RPL34P23
+ÿOther	RPL34P8
+ÿOther	RPL35AP
+ÿOther	RPL35AP35
+ÿOther	RPL35P4
+ÿOther	RPL36AP23
+ÿOther	RPL36AP25
+ÿOther	RPL36P1
+ÿOther	RPL36P15
+ÿOther	RPL37AP7
+ÿOther	RPL39P13
+ÿOther	RPL39P30
+ÿOther	RPL41P1
+ÿOther	RPL5P7
+ÿOther	RPL6P25
+ÿOther	RPL6P5
+ÿOther	RPL7AP21
+ÿOther	RPL7AP27
+ÿOther	RPL7AP6
+ÿOther	RPL7AP62
+ÿOther	RPL7AP73
+ÿOther	RPL7L1P13
+ÿOther	RPL7P28
+ÿOther	RPL7P45
+ÿOther	RPL7P48
+ÿOther	RPL7P61
+ÿOther	RPLP0P2
+ÿOther	RPN1
+ÿOther	RPS10P11
+ÿOther	RPS11
+ÿOther	RPS11P1
+ÿOther	RPS14P1
+ÿOther	RPS14P4
+ÿOther	RPS14P7
+ÿOther	RPS15AP30
+ÿOther	RPS15AP4
+ÿOther	RPS17P15
+ÿOther	RPS17P8
+ÿOther	RPS18P12
+ÿOther	RPS20P12
+ÿOther	RPS20P3
+ÿOther	RPS24P7
+ÿOther	RPS26
+ÿOther	RPS26P35
+ÿOther	RPS27AP14
+ÿOther	RPS27AP16
+ÿOther	RPS27P10
+ÿOther	RPS27P11
+ÿOther	RPS27P4
+ÿOther	RPS28P8
+ÿOther	RPS29P10
+ÿOther	RPS29P15
+ÿOther	RPS2P1
+ÿOther	RPS2P37
+ÿOther	RPS2P9
+ÿOther	RPS3AP2
+ÿOther	RPS3AP21
+ÿOther	RPS3AP22
+ÿOther	RPS3AP42
+ÿOther	RPS3AP49
+ÿOther	RPS4XP18
+ÿOther	RPS4XP9
+ÿOther	RPS5P5
+ÿOther	RPS6KA4
+ÿOther	RPS6KA5
+ÿOther	RPS8P8
+ÿOther	RPSAP12
+ÿOther	RPSAP20
+ÿOther	RPSAP47
+ÿOther	RPSAP64
+ÿOther	RREB1
+ÿOther	RRNAD1
+ÿOther	RSBN1L
+ÿOther	RSPO1
+ÿOther	RSPO3
+ÿOther	RTBDN
+ÿOther	RUVBL2
+ÿOther	RXRG
+ÿOther	RYR3
+ÿOther	S100A10
+ÿOther	SAA1
+ÿOther	SALL1
+ÿOther	SAMD5
+ÿOther	SASH1
+ÿOther	SAT2
+ÿOther	SATB1
+ÿOther	SATB2
+ÿOther	SBF1P1
+ÿOther	SBNO1
+ÿOther	SCAPER
+ÿOther	SCARB1
+ÿOther	SCGB1A1
+ÿOther	SCML4
+ÿOther	SCN10A
+ÿOther	SCN11A
+ÿOther	SCN1A
+ÿOther	SCN5A
+ÿOther	SDCBPP1
+ÿOther	SDCCAG8
+ÿOther	SDHDP3
+ÿOther	SEC11B
+ÿOther	SEC16B
+ÿOther	SELENBP1
+ÿOther	SELL
+ÿOther	SELP
+ÿOther	SEMA3A
+ÿOther	SEMA3C
+ÿOther	SEPT2P1
+ÿOther	SERBP1P3
+ÿOther	SERINC2
+ÿOther	SERPINA1
+ÿOther	SERPINA12
+ÿOther	SERPINA4
+ÿOther	SERPINE1
+ÿOther	SETD2
+ÿOther	SETP16
+ÿOther	SF1
+ÿOther	SFTPD
+ÿOther	SGSM2
+ÿOther	SH2B3
+ÿOther	SH3YL1
+ÿOther	SHANK3
+ÿOther	SHARPIN
+ÿOther	SHBG
+ÿOther	SHISA6
+ÿOther	SHROOM3
+ÿOther	SIAE
+ÿOther	SIK3
+ÿOther	SIRPA
+ÿOther	SIRPB2
+ÿOther	SIX1
+ÿOther	SIX2
+ÿOther	SIX3
+ÿOther	SKIV2L
+ÿOther	SKOR2
+ÿOther	SLC12A7
+ÿOther	SLC12A9
+ÿOther	SLC13A3
+ÿOther	SLC13A5
+ÿOther	SLC14A2
+ÿOther	SLC16A10
+ÿOther	SLC16A9
+ÿOther	SLC17A1
+ÿOther	SLC17A3
+ÿOther	SLC17A4
+ÿOther	SLC19A2
+ÿOther	SLC1A4
+ÿOther	SLC22A1
+ÿOther	SLC22A11
+ÿOther	SLC22A12
+ÿOther	SLC22A2
+ÿOther	SLC22A3
+ÿOther	SLC22A4
+ÿOther	SLC22A5
+ÿOther	SLC24A4
+ÿOther	SLC24A5
+ÿOther	SLC25A1
+ÿOther	SLC25A45
+ÿOther	SLC25A46
+ÿOther	SLC25A5P7
+ÿOther	SLC25A6P5
+ÿOther	SLC26A9
+ÿOther	SLC27A2
+ÿOther	SLC28A2
+ÿOther	SLC2A2
+ÿOther	SLC2A9
+ÿOther	SLC30A8
+ÿOther	SLC34A1
+ÿOther	SLC35F1
+ÿOther	SLC36A1
+ÿOther	SLC38A10
+ÿOther	SLC39A12
+ÿOther	SLC39A8
+ÿOther	SLC45A2
+ÿOther	SLC45A3
+ÿOther	SLC51A
+ÿOther	SLC5A6
+ÿOther	SLC6A12
+ÿOther	SLC6A13
+ÿOther	SLC6A15
+ÿOther	SLC6A20
+ÿOther	SLC7A5
+ÿOther	SLC7A6
+ÿOther	SLC7A9
+ÿOther	SLC8A3
+ÿOther	SLC9A4
+ÿOther	SLCO1B1
+ÿOther	SLCO1B3
+ÿOther	SLCO1B7
+ÿOther	SLCO6A1
+ÿOther	SLFN14
+ÿOther	SLITRK3
+ÿOther	SLMO2
+ÿOther	SLMO2-ATP5E
+ÿOther	SMAD3
+ÿOther	SMARCA4
+ÿOther	SMARCB1
+ÿOther	SMG5
+ÿOther	SMG6
+ÿOther	SMG8
+ÿOther	SMIM1
+ÿOther	SMIM13
+ÿOther	SMIM19
+ÿOther	SMIM20
+ÿOther	SMOC1
+ÿOther	SMUG1P1
+ÿOther	SNAI2
+ÿOther	SNAR-A12
+ÿOther	SNAR-I
+ÿOther	SNHG20
+ÿOther	SNN
+ÿOther	SNORA28
+ÿOther	SNORA55
+ÿOther	SNORA74B
+ÿOther	SNORD117
+ÿOther	SNORD19
+ÿOther	SNORD35B
+ÿOther	SNORD43
+ÿOther	SNORD48
+ÿOther	SNORD59A
+ÿOther	SNTB1
+ÿOther	SNX13
+ÿOther	SNX17
+ÿOther	SNX19
+ÿOther	SNX20
+ÿOther	SNX5
+ÿOther	SNX7
+ÿOther	SOBP
+ÿOther	SOD1P2
+ÿOther	SORCS2
+ÿOther	SOST
+ÿOther	SOX1
+ÿOther	SOX15
+ÿOther	SOX5
+ÿOther	SOX5P
+ÿOther	SOX6
+ÿOther	SOX9
+ÿOther	SOX9-AS1
+ÿOther	SP7
+ÿOther	SPA17
+ÿOther	SPAST
+ÿOther	SPATA22
+ÿOther	SPATA5L1
+ÿOther	SPATA9
+ÿOther	SPDYE9P
+ÿOther	SPEF2
+ÿOther	SPIB
+ÿOther	SPOCK2
+ÿOther	SPON1
+ÿOther	SPPL2A
+ÿOther	SPPL2C
+ÿOther	SPRED2
+ÿOther	SPRY2
+ÿOther	SPRYD4
+ÿOther	SPTA1
+ÿOther	SPTBN1
+ÿOther	SPTLC3
+ÿOther	SPTY2D1
+ÿOther	SRD5A2
+ÿOther	SRIP1
+ÿOther	SRP14-AS1
+ÿOther	SRPRB
+ÿOther	SRRM4
+ÿOther	SRRT
+ÿOther	SRSF2
+ÿOther	SSTR1
+ÿOther	ST13P5
+ÿOther	ST3GAL4
+ÿOther	ST6GAL1
+ÿOther	STAB1
+ÿOther	STARD3
+ÿOther	STARD3NL
+ÿOther	STAT4
+ÿOther	STAT6
+ÿOther	STC1
+ÿOther	STK19
+ÿOther	STON1-GTF2A1L
+ÿOther	STX2
+ÿOther	STX6
+ÿOther	STXBP5
+ÿOther	STXBP6
+ÿOther	SUCLG2
+ÿOther	SUGCT
+ÿOther	SUGP1
+ÿOther	SULT2A1
+ÿOther	SUMF1
+ÿOther	SUMO1P1
+ÿOther	SUMO1P5
+ÿOther	SUMO2P5
+ÿOther	SUOX
+ÿOther	SURF6
+ÿOther	SUV420H1
+ÿOther	SYCE2
+ÿOther	SYCP2L
+ÿOther	SYNE1
+ÿOther	SYNGR1
+ÿOther	SYT10
+ÿOther	SYT9
+ÿOther	TAB1
+ÿOther	TACR1
+ÿOther	TAF11
+ÿOther	TAGLN
+ÿOther	TANK
+ÿOther	TAOK1
+ÿOther	TAP2
+ÿOther	TAT
+ÿOther	TBC1D13
+ÿOther	TBC1D14
+ÿOther	TBC1D3F
+ÿOther	TBL2
+ÿOther	TBX2
+ÿOther	TBX20
+ÿOther	TBX3
+ÿOther	TBX5
+ÿOther	TCF19
+ÿOther	TCF4
+ÿOther	TCF7L2
+ÿOther	TCHH
+ÿOther	TCHHL1
+ÿOther	TCN1
+ÿOther	TCN2
+ÿOther	TCP1P3
+ÿOther	TDGF1P3
+ÿOther	TDO2
+ÿOther	TDRD15
+ÿOther	TDRD3
+ÿOther	TENM4
+ÿOther	TERC
+ÿOther	TERT
+ÿOther	TEX29
+ÿOther	TF
+ÿOther	TFAM
+ÿOther	TFDP2
+ÿOther	TFPI
+ÿOther	TFR2
+ÿOther	TFRC
+ÿOther	TGFB2
+ÿOther	TGFBR2
+ÿOther	TGM2
+ÿOther	THADA
+ÿOther	THEM4
+ÿOther	THEM5
+ÿOther	THNSL2
+ÿOther	THPO
+ÿOther	THRB
+ÿOther	THSD4
+ÿOther	THTPA
+ÿOther	TICRR
+ÿOther	TIMD4
+ÿOther	TIMM23
+ÿOther	TIMMDC1
+ÿOther	TIMP4
+ÿOther	TJP1
+ÿOther	TJP2
+ÿOther	TKT
+ÿOther	TKTL1
+ÿOther	TLK1
+ÿOther	TLL1
+ÿOther	TLR1
+ÿOther	TLR10
+ÿOther	TLR6
+ÿOther	TM4SF5
+ÿOther	TMC4
+ÿOther	TMCC2
+ÿOther	TMCO1
+ÿOther	TMED10P2
+ÿOther	TMEM108
+ÿOther	TMEM135
+ÿOther	TMEM150B
+ÿOther	TMEM171
+ÿOther	TMEM174
+ÿOther	TMEM18
+ÿOther	TMEM229B
+ÿOther	TMEM241
+ÿOther	TMEM246
+ÿOther	TMEM248
+ÿOther	TMEM254
+ÿOther	TMEM258
+ÿOther	TMEM261
+ÿOther	TMEM263
+ÿOther	TMEM39A
+ÿOther	TMEM56
+ÿOther	TMEM56-RWDD3
+ÿOther	TMEM57
+ÿOther	TMEM60
+ÿOther	TMEM68
+ÿOther	TMEM79
+ÿOther	TMPRSS6
+ÿOther	TMSB10P1
+ÿOther	TMTC3
+ÿOther	TNFRSF11A
+ÿOther	TNFRSF11B
+ÿOther	TNFRSF13B
+ÿOther	TNFRSF17
+ÿOther	TNFRSF1A
+ÿOther	TNFSF11
+ÿOther	TNFSF12-TNFSF13
+ÿOther	TNFSF13
+ÿOther	TNFSF15
+ÿOther	TNIP1
+ÿOther	TNKS
+ÿOther	TNNT2
+ÿOther	TNPO3
+ÿOther	TNS1
+ÿOther	TNXB
+ÿOther	TOLLIP
+ÿOther	TOM1
+ÿOther	TOMM40
+ÿOther	TOMM40L
+ÿOther	TOMM7
+ÿOther	TOP1
+ÿOther	TOX
+ÿOther	TOX3
+ÿOther	TP53
+ÿOther	TPCN2
+ÿOther	TPM1
+ÿOther	TPM4
+ÿOther	TPM4P1
+ÿOther	TPO
+ÿOther	TPRX2P
+ÿOther	TPT1
+ÿOther	TPT1P9
+ÿOther	TRA2B
+ÿOther	TRAF3IP1
+ÿOther	TRANK1
+ÿOther	TRDMT1
+ÿOther	TREH
+ÿOther	TREM2
+ÿOther	TRHR
+ÿOther	TRIB1
+ÿOther	TRIM26
+ÿOther	TRIM31
+ÿOther	TRIM4
+ÿOther	TRIM42
+ÿOther	TRIM46
+ÿOther	TRIM47
+ÿOther	TRIM58
+ÿOther	TRIM65
+ÿOther	TRIM66
+ÿOther	TRIML1
+ÿOther	TRMT112P7
+ÿOther	TRNAC32P
+ÿOther	TRNAE19
+ÿOther	TRNAE24
+ÿOther	TRNAG26
+ÿOther	TRNAI25
+ÿOther	TRNAI30P
+ÿOther	TRNAK39P
+ÿOther	TRNAL19
+ÿOther	TRNAN5
+ÿOther	TRNAT6
+ÿOther	TRNAV37P
+ÿOther	TRPM6
+ÿOther	TRPM8
+ÿOther	TRPS1
+ÿOther	TSEN34
+ÿOther	TSG1
+ÿOther	TSLP
+ÿOther	TSNARE1
+ÿOther	TSNAX-DISC1
+ÿOther	TSPAN18
+ÿOther	TTC3
+ÿOther	TTC39B
+ÿOther	TTC4P1
+ÿOther	TTR
+ÿOther	TUBB1
+ÿOther	TUSC1
+ÿOther	TUSC3
+ÿOther	TWIST2
+ÿOther	TXNL4B
+ÿOther	TYK2
+ÿOther	TYMP
+ÿOther	TYR
+ÿOther	TYRP1
+ÿOther	TYW1B
+ÿOther	TYW3
+ÿOther	UBA52P1
+ÿOther	UBA52P4
+ÿOther	UBA52P6
+ÿOther	UBA52P7
+ÿOther	UBASH3A
+ÿOther	UBASH3B
+ÿOther	UBE2A
+ÿOther	UBE2CP2
+ÿOther	UBE2HP1
+ÿOther	UBE2L3
+ÿOther	UBE2Q2
+ÿOther	UBL4B
+ÿOther	UBQLN3
+ÿOther	UBXN2B
+ÿOther	UFSP1
+ÿOther	UGT1A1
+ÿOther	UGT1A10
+ÿOther	UGT1A3
+ÿOther	UGT1A4
+ÿOther	UGT1A5
+ÿOther	UGT1A6
+ÿOther	UGT1A7
+ÿOther	UGT1A8
+ÿOther	UGT1A9
+ÿOther	UGT2B10
+ÿOther	UGT2B15
+ÿOther	UGT3A1
+ÿOther	UHRF1BP1
+ÿOther	UIMC1
+ÿOther	ULK3
+ÿOther	ULK4
+ÿOther	UMOD
+ÿOther	UNC119B
+ÿOther	UNCX
+ÿOther	UNGP1
+ÿOther	UQCRBP3
+ÿOther	UQCRFS1P3
+ÿOther	USP24
+ÿOther	USP38
+ÿOther	VAV3
+ÿOther	VGLL3
+ÿOther	VIM-AS1
+ÿOther	VIPR2
+ÿOther	VKORC1L1
+ÿOther	VLDLR
+ÿOther	VMP1
+ÿOther	VN1R85P
+ÿOther	VTA1
+ÿOther	VWA8-AS1
+ÿOther	VWF
+ÿOther	WASL
+ÿOther	WDR1
+ÿOther	WDR36
+ÿOther	WDR37
+ÿOther	WDR66
+ÿOther	WDR72
+ÿOther	WDR81
+ÿOther	WFS1
+ÿOther	WHAMMP2
+ÿOther	WHSC1L2P
+ÿOther	WLS
+ÿOther	WNT10A
+ÿOther	WNT11
+ÿOther	WNT16
+ÿOther	WNT2
+ÿOther	WNT4
+ÿOther	WNT7B
+ÿOther	WT1
+ÿOther	WTAPP1
+ÿOther	XKR4
+ÿOther	XKR6
+ÿOther	XPO7
+ÿOther	XPOTP1
+ÿOther	XRCC6P1
+ÿOther	YAP1
+ÿOther	YAP1P3
+ÿOther	YDJC
+ÿOther	YKT6
+ÿOther	YPEL5
+ÿOther	YWHAQP9
+ÿOther	ZAN
+ÿOther	ZBTB10
+ÿOther	ZBTB38
+ÿOther	ZBTB40
+ÿOther	ZBTB41
+ÿOther	ZBTB42
+ÿOther	ZBTB8OSP2
+ÿOther	ZC3H11B
+ÿOther	ZCCHC2
+ÿOther	ZCWPW1
+ÿOther	ZDHHC18
+ÿOther	ZDHHC19
+ÿOther	ZEB2
+ÿOther	ZFP36L1
+ÿOther	ZFPM2
+ÿOther	ZHX3
+ÿOther	ZKSCAN3
+ÿOther	ZKSCAN4
+ÿOther	ZKSCAN5
+ÿOther	ZMAT4
+ÿOther	ZMYND8
+ÿOther	ZNF101
+ÿOther	ZNF112
+ÿOther	ZNF285
+ÿOther	ZNF292
+ÿOther	ZNF408
+ÿOther	ZNF469
+ÿOther	ZNF483
+ÿOther	ZNF512
+ÿOther	ZNF516
+ÿOther	ZNF518B
+ÿOther	ZNF536
+ÿOther	ZNF600
+ÿOther	ZNF648
+ÿOther	ZNF652
+ÿOther	ZNF655
+ÿOther	ZNF664
+ÿOther	ZNF664-FAM101A
+ÿOther	ZNF676
+ÿOther	ZNF697
+ÿOther	ZNF791
+ÿOther	ZNF827
+ÿOther	ZNF831
+ÿOther	ZNF965P
+ÿOther	ZNF969P
+ÿOther	ZNHIT3
+ÿOther	ZNRD1
+ÿOther	ZNRD1-AS1
+ÿOther	ZNRF2P3
+ÿOther	ZPBP2
+ÿOther	ZPR1
+ÿOther	ZSCAN25
+ÿOther	ZSWIM6
