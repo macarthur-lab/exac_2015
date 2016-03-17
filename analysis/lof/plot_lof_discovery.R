@@ -1,4 +1,6 @@
-library(plyr)
+source('../../exac_constants.R')
+
+load_R_libraries( "plyr" )
 
 snapshots = seq(from=500, to=125000, by=500)/2
 discovery_pops = c("afr", "eas", "nfe", "fin", "sas", "amr", "consanguineous", "sas_non_consang")

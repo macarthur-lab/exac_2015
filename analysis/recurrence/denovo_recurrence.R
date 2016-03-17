@@ -1,8 +1,10 @@
-library(binom)
-library(gdata)
-library(reshape)
-library(Hmisc)
-source('exac_constants.R')
+source('../../exac_constants.R')
+
+load_R_libraries( "binom" )
+load_R_libraries( "gdata" )
+load_R_libraries( "reshape" )
+load_R_libraries( "Hmisc" )
+
 if (!("exac" %in% ls(globalenv()))) {
   exac = load_exac_data()
 }

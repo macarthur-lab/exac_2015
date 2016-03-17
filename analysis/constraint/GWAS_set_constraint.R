@@ -1,9 +1,10 @@
 #GWAS constrained plots
-library(reshape)
+source('../../exac_constants.R')
+
+load_R_libraries( 'reshape' )
 gwas<-read.table("data/constraint/gwas.genes.parent.uniq",header=T,sep="\t")
 gwas$inGWAS=1
 
-source("exac_constants.R")
 if (!("constraint" %in% ls(globalenv()))) {
   constraint = load_constraint_data()
 }

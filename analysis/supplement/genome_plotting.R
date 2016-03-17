@@ -1,9 +1,11 @@
 # source("http://bioconductor.org/biocLite.R")
 # biocLite("ggbio")
 
-library(ggbio)
+source('../../exac_constants.R')
+
+load_bioc_libraries( "ggbio" )
 data(hg19Ideogram, package = "biovizBase")
-library(GenomicRanges)
+load_bioc_libraries( "GenomicRanges" )
 
 plot_snp_density = function(exac_data, resolution=1000) {
   intervals=(0:(250000000/resolution))*resolution

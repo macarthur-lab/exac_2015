@@ -1,7 +1,8 @@
-library(data.table)
-library(plyr)
+source('../../exac_constants.R')
 
-source('exac_constants.R')
+load_R_libraries( "data.table" )
+load_R_libraries(" plyr" )
+
 if (!("exac" %in% ls(globalenv()))) {
   exac = load_exac_data()
 }

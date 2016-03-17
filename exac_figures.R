@@ -1,10 +1,11 @@
 options(stringsAsFactors=FALSE)
 #install.packages(c('binom', 'plyr', 'ggplot2', 'data.table', 'reshape', 'plotrix', 'dplyr', 'Hmisc', 'gdata', 'magrittr', 'vioplot'))
-library(plyr)
-library(dplyr)
-library(plotrix)
-
 source('exac_constants.R')
+
+load_R_libraries( "plyr" )
+load_R_libraries( "dplyr" )
+load_R_libraries( "plotrix" )
+
 exac = load_exac_data()
 use_data = subset(exac, use)
 constraint = load_constraint_data()
@@ -197,8 +198,10 @@ dev.off()
 # Supplementary Table X - Proportion variants observed by category
 source('analysis/summary/percent_possible_observed.R')
 covered_possible_observed = subset(load_all_observed('use'), cutoff == 0.8 & cov == 10)
-library(dplyr)
-library(magrittr)
+
+load_R_libraries( "dplyr" )
+load_R_libraries( "magrittr" )
+
 cpgs_possible = covered_possible_observed %>% 
   subset(type == 'CpG transition' & freq.poss > 200) %>% 
   arrange(desc(freq.obs/freq.poss)) %>%

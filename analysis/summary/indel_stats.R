@@ -1,5 +1,7 @@
 ### FIGURE 1C - INDEL DESCRIPTIVE STATS
-library(binom)
+source('../../exac_constants.R')
+
+load_R_libraries( "binom" )
 
 coding_indels = c("inframe_indel", "frameshift_variant")
 

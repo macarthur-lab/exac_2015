@@ -1,6 +1,8 @@
-library(gdata)
-library(Hmisc)
-library(reshape)
+source('../../exac_constants.R')
+
+load_R_libraries( "gdata" )
+load_R_libraries( "Hmisc" )
+load_R_libraries( "reshape" )
 
 prepare_all_observed = function(type='use') {
   all_possible_observed = load_all_observed(type)

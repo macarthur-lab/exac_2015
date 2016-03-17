@@ -1,5 +1,6 @@
-library(plyr)
-source('exac_constants.R')
+source('../../exac_constants.R')
+load_R_libraries( "plyr" )
+
 if (!("exac" %in% ls(globalenv()))) {
   exac = load_exac_data()
 }
@@ -90,7 +91,7 @@ plot_titv_singleton_by_category = function(titv_categories, save_plot=T, leg=F, 
   }
   # axis(side=2,at=(0:10)/10,labels=paste((0:10)/10*100,'%',sep=''),lwd=0,lwd.ticks=1,las=2,cex.axis=par('cex'))
   # mtext(side=2, text='percent singleton', line=4)
-  library(plotrix)
+  load_R_libraries( "plotrix" )
   staxlab(side=1, at=titv_categories$xval, labels=titv_categories$display_text, las=1, cex=text_size, col=titv_categories$k, srt=45)
   par(xpd=NA)
   if (leg) legend(0.5, 1, c('transversion', 'non-CpG transition', 'CpG transition'), pch=c(17, 15, 15), bty='n', col=c(color_tv, color_ti, color_cpg), text.col=c(color_tv, color_ti, color_cpg))

@@ -1,10 +1,55 @@
 # ExAC constants file
 # Use by source('exac_constants.R')
 
+load_bioc_libraries = function( libName )
+{
+	if ( !require( libName, character.only = TRUE ) )
+	{
+		source( "http://www.bioconductor.org/biocLite.R" )
+		biocLite( libName, suppressUpdates=TRUE )
+		
+		if ( !require( libName, character.only = TRUE ) )
+		{
+			stop( "Couldn't install", libName, "from Bioconductor. Please install manually." )
+		}
+    }
+}
+
+load_R_libraries = function( libName )
+{
+	if ( !require( libName, character.only=TRUE ) )
+	{
+		install.packages( libName )
+
+		if ( !require( libName, character.only=TRUE ) )
+		{
+			stop( "Couldn't install", libName, "from CRAN packages. Please install manually." )
+		}
+
+	}
+}
+
+devtools_load =  function( package, github )
+{
+	# install package
+	if (!require( package, character.only=TRUE ) )
+	{
+		# devtools
+		load_R_libraries( 'devtools' )
+		
+		devtools::install_github( github )
+		if ( !require( package, character.only=TRUE ) )
+		{
+			stop( "Couldn't install", package, "using devtools package. Please install manually." )
+		}
+	}
+}
+
 options(stringsAsFactors=FALSE)
-library(plyr)
-library(dplyr)
-library(magrittr)
+
+load_R_libraries( 'plyr' )
+load_R_libraries( 'dplyr' )
+load_R_libraries( 'magrittr' )
 
 calling_interval_length = 59684884
 num_samples = 60706

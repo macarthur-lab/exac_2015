@@ -1,5 +1,7 @@
 #### Begin preparation for Figure 4C
 
+source('../../exac_constants.R')
+
 load_pathogenic_variants = function() {
   # If HGMD dataset is available (locally) then re-calculate the stats for Figure 4C
   # and write them to disk. If not (public release) then just re-loads the stats from disk
@@ -24,7 +26,7 @@ load_pathogenic_variants = function() {
       hgmd = read.table('misc_data/hgmd_201402_normalized.tsv',sep='\t',header=TRUE,quote='',comment.char='')
       hgmd$pos_id = paste(hgmd$chrom, formatC(hgmd$pos,width=9,flag='0'), hgmd$ref, hgmd$alt, sep='_')
     }
-    require(sqldf)
+    load_R_libraries( "sqldf" )
     mendelian = sqldf("
                       select   pos_id, max(symbol) symbol from (
                       select   pos_id, symbol

@@ -1,4 +1,5 @@
-source('exac_constants.R')
+source('../../exac_constants.R')
+
 # source('analysis/properties/category_stats.R')
 if (!("exac_canonical" %in% ls(globalenv()))) {
   exac_canonical = load_exac_data('canonical')
@@ -116,7 +117,7 @@ plot_category_stats_constraint = function(categories, categories_detail, save_pl
   delta = ifelse(save_plot, 0.6, 1.2)
   s = -1; m = 7; l = 15
   plot(NA,NA,xlim=xrange,ylim=yrange,yaxs='i',xaxs='i',axes=FALSE,xlab='',ylab='MAPS')
-  library(plotrix)
+  load_R_libraries( "plotrix" )
   staxlab(side=1, at=categories$xval, labels=categories$display_text, las=1, col=categories$k, srt=45)
   abline(v=panel_line,lwd=1)
   abline(h=0, lwd=.5, lty=2)

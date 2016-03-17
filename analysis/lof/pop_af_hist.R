@@ -1,4 +1,6 @@
-library(plotrix)
+source('../../exac_constants.R')
+
+load_R_libraries( "plotrix" )
 
 pop_af_hist <- function(df, pops, sing=T, doub=T, trip=T, breaks=c(-Inf,0.001,0.01,0.05,Inf), pop_spec=F, count_alleles=F) {
   pop_acs <- data.frame(df[,paste("ac",pops,sep="_")])

@@ -1,5 +1,6 @@
-source('exac_constants.R')
-require(plotrix)
+source('../../exac_constants.R')
+
+load_R_libraries( "plotrix" )
 
 # Load ExAC data
 if (!("exac" %in% ls(globalenv()))) {

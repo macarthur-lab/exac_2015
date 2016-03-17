@@ -1,4 +1,4 @@
-source('exac_constants.R')
+source('../../exac_constants.R')
 if (!("exac" %in% ls(globalenv()))) {
   exac = load_exac_data()
 }
@@ -147,7 +147,7 @@ plot_category_comparison = function(categories, correction = TRUE, save_plot = F
     points(x=rep(categories$xval[i],2),y=c(categories$lower95[i],categories$upper95[i]),type='l',lwd=3,col=categories$k[i])
   }
   axis(side=2,at=(0:10)/10,labels=(0:10)/10,lwd=0,lwd.ticks=1,las=2,cex.axis=text_size)
-  library(plotrix)
+  load_R_libraries( "plotrix" )
   staxlab(side=1, at=categories$xval, labels=categories$display_text, las=1, cex=text_size, col=categories$k, srt=45)
   abline(v=panel_line,lwd=1)
   abline(h=0, lwd=.5, lty=2)

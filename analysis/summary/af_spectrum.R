@@ -1,4 +1,7 @@
 options(stringsAsFactors=FALSE)
+
+source('../../exac_constants.R')
+
 if (!("exac" %in% ls(globalenv()))) {
   exac = load_exac_data()
 }

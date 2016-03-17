@@ -1,5 +1,7 @@
-library(Hmisc)
-library(plotrix)
+source('../../exac_constants.R')
+
+load_R_libraries( "Hmisc ")
+load_R_libraries( "plotrix" )
 
 load_lofs_per_person = function() {
   options(stringsAsFactors = F)
@@ -76,7 +78,7 @@ plot_lofs_per_person_split_by_pop = function() {
 # 3 will go all the way across the bottom.
 #
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
-  library(grid)
+  load_R_libraries( "grid" )
   
   # Make a list from the ... arguments and plotlist
   plots <- c(list(...), plotlist)

@@ -1,4 +1,4 @@
-source('analysis/lof/pop_af_hist.R')
+source('pop_af_hist.R')
 
 load_downsampled_to_hist <- function(pops, breaks=c(-Inf,0.001,0.01,0.05,Inf), s=T, d=F, t=F, constrained_only=F, canonical_only=F, return_seperate=F, count_alleles=F, complete_only=F, filter=NA) {
   num_bins <- length(breaks) - 1 + s + d + t

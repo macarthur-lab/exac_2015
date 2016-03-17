@@ -1,5 +1,7 @@
-library('vioplot')
-source('exac_constants.R')
+source('../../exac_constants.R')
+
+load_R_libraries( 'vioplot' )
+
 if (!("constraint" %in% ls(globalenv()))) {
   constraint = load_constraint_data()
 }

@@ -1,8 +1,9 @@
 # Script to recreate figures 3a and 3b from Lek et al in review
+source('../../exac_constants.R')
 
-library(binom)
+load_R_libraries( "binom" )
+
 # Load data
-source('exac_constants.R')
 if (!("constraint" %in% ls(globalenv()))) {
   constraint = load_constraint_data()
 }

@@ -1,8 +1,9 @@
-library(gdata)
-library(ggplot2)
-library(plotrix)
+source('../../exac_constants.R')
 
-source('exac_constants.R')
+load_R_libraries( "gdata" )
+load_R_libraries( "ggplot2" )
+load_R_libraries( "plotrix" )
+
 if (!("exac" %in% ls(globalenv()))) {
   exac = load_exac_data()
 }

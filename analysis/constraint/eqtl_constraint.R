@@ -1,4 +1,5 @@
-source('exac_constants.R')
+source('../../exac_constants.R')
+
 if (!("constraint" %in% ls(globalenv()))) {
   constraint = load_constraint_data()
 }
