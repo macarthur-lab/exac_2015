@@ -1,11 +1,11 @@
 library(plyr)
 
-snapshots = seq(from=500, to=125000, by=500)/2
-discovery_pops = c("afr", "eas", "nfe", "fin", "sas", "amr", "consanguineous", "sas_non_consang")
+snapshots = seq(from=500, to=121000, by=500)/2
+discovery_pops = c("exac", "afr", "eas", "nfe", "fin", "sas", "amr", "consanguineous", "sas_non_consang")
 
 load_and_combine_samples <- function(path) {
   runs = list.files(path, full.names=TRUE)
-  final = data.frame(matrix(0, nrow=length(snapshots), ncol=8))
+  final = data.frame(matrix(0, nrow=length(snapshots), ncol=length(discovery_pops)))
   colnames(final) = discovery_pops
   for (i in 1:length(runs)) {
     popcurves = list.files(runs[i], full.names=TRUE)
@@ -18,7 +18,7 @@ load_and_combine_samples <- function(path) {
   return(final)
 }
 
-load_lof_discovery_curves <- function(pop_fits=F, gene=T, hom=T, rare=T) {
+load_lof_discovery_curves <- function(gene=T, hom=T, rare=T) {
   # pops = c("afr", "amr", "eas", "fin", "nfe", "sas", "consanguineous", "sas_non_consang")
   criteria = sprintf('%s_%s_%s', ifelse(gene, 'gene', 'var'),
                  ifelse(rare, 'rare', 'all'),
@@ -32,7 +32,7 @@ load_lof_discovery_curves <- function(pop_fits=F, gene=T, hom=T, rare=T) {
   return(curves)
 }
 
-plot_lof_discovery_curves = function(curves, save_plot=T, uniform=F, gene=T, hom=T, rare=T, last_point=NA) {
+plot_lof_discovery_curves = function(curves, save_plot=T, uniform=F, gene=T, hom=T, rare=T, exac_line=T, last_point=NA) {
   criteria = sprintf('%s_%s_%s', ifelse(gene, 'gene', 'var'),
                      ifelse(rare, 'rare', 'all'),
                      ifelse(hom, 'hom', 'lof'))
@@ -43,6 +43,9 @@ plot_lof_discovery_curves = function(curves, save_plot=T, uniform=F, gene=T, hom
   plot_pops = discovery_pops
   if (uniform) {
     plot_pops = c(discovery_pops, 'uniform')
+  }
+  if (!exac_line) {
+    plot_pops = plot_pops[!grepl("exac", plot_pops)]
   }
   if (hom) {
     plot_pops = plot_pops[plot_pops != 'sas']
@@ -61,7 +64,7 @@ plot_lof_discovery_curves = function(curves, save_plot=T, uniform=F, gene=T, hom
   par(bty='n', las=1)
   plot(NA, NA, log='', xlim=c(0, max(snapshots)), ylim=c(0, max(curves, na.rm=T)*1.35), lwd=0, type='l', xlab=xlabel, ylab='', xaxs='i', yaxs='i')
   sapply(plot_pops, function(x) {
-    lines(snapshots, curves[[x]], col=pop_colors[[x]], lwd=4)
+    lines(snapshots, curves[[x]], col=pop_colors[[x]], lwd=4, lty=ifelse(x == 'exac', "11", 1))
   })
   par(las=0)
   text_line = ifelse(gene & !hom, 2, 3)

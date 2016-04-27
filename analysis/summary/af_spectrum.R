@@ -65,7 +65,7 @@ calculate_af_spectrum = function(exac) {
   return(af_spectrum)
 }
 
-plot_af_spectrum = function(af_spectrum, save_plot=F) {
+plot_af_spectrum = function(af_spectrum, save_plot=F, plot_seen=T) {
   novel_color = '#003EFF'
   seen_color = '#666666'
   kg_esp_color = '#000000'
@@ -76,15 +76,17 @@ plot_af_spectrum = function(af_spectrum, save_plot=F) {
   }
   plot(NA,NA,xlim=c(-6.5,-.5),ylim=c(0,.6),axes=FALSE,xlab='',ylab='',xaxs='i',yaxs='i')
   points(af_spectrum$log_af_bin, af_spectrum$proportion, col=novel_color, type='h', lwd=bar_lwd, lend=1)
-  points(af_spectrum$log_af_bin, af_spectrum$proportion_seenbar, col=seen_color, type='h', lwd=bar_lwd, lend=1)
-  points(af_spectrum$log_af_bin, af_spectrum$proportion_kgespbar, col=kg_esp_color, type='h', lwd=bar_lwd, lend=1)
+  if (plot_seen) {
+    points(af_spectrum$log_af_bin, af_spectrum$proportion_seenbar, col=seen_color, type='h', lwd=bar_lwd, lend=1)
+    points(af_spectrum$log_af_bin, af_spectrum$proportion_kgespbar, col=kg_esp_color, type='h', lwd=bar_lwd, lend=1)
+  }
   abline(h=0)
   #axis(side=1, at=-6:-1, labels=c('singleton','2-10 alleles','0.01%','0.1%','1%','\u226510%'),srt=45,line=-.5,lwd=0,lwd.ticks=0,cex.axis=.5)
   text(x=-6:-1, y=par("usr")[3], xpd=T, labels=c('singleton','2-10 alleles','0.01%','0.1%','1%','10%+'),srt=45,adj=c(1.1,1.1),font=2,cex=.8)
   axis(side=2, at=(0:6)/10, labels=percent((0:6)/10), lwd=0, lwd.ticks=1, las=1)
   mtext(side=1, line=3.2, text='ExAC global allele frequency')
   mtext(side=2, line=4, text='proportion of ExAC alleles')
-  legend('topright',c('novel','other dbSNP','in 1kG or ESP'),col=c(novel_color,seen_color,kg_esp_color),pch=15, bty='n')
+  if (plot_seen) legend('topright',c('novel','other dbSNP','in 1kG or ESP'),col=c(novel_color,seen_color,kg_esp_color),pch=15, bty='n')
   if (save_plot) dev.off()
 }
 

@@ -69,7 +69,8 @@ pop_colors = c('afr' = color_afr,
                'mde' = color_mde,
                'uniform' = 'pink',
                'consanguineous' = 'pink',
-               'sas_non_consang' = 'orange')
+               'sas_non_consang' = 'orange',
+               'exac' = 'black')
 pop_names = c('afr' = 'African',
              'amr' = 'Latino',
              'eas' = 'East Asian',
@@ -80,7 +81,8 @@ pop_names = c('afr' = 'African',
              'mde' = 'Middle Eastern',
              'uniform' = 'Uniform',
              'sas_non_consang' = 'South Asian (F < 0.05)',
-             'consanguineous' = 'South Asian (F > 0.05)')
+             'consanguineous' = 'South Asian (F > 0.05)',
+             'exac' = 'ExAC')
 
 
 ## Population sizes
@@ -242,6 +244,37 @@ load_cadd_exac = function(reload=F) {
   cadd_data = subset(cadd_data, select=c(pos_id, rawscore, phred))
   print('Done!')
   return(cadd_data)
+}
+
+load_caf_data = function(type='') {
+#   if (type == 'transcript') {
+#     print('Loading transcript data...')
+#     caf = open_file_exac('ExAC_HC.0.3.final.vep.transcript.caf.gz')
+#   } else {
+#     print('Loading gene data...')
+#     caf = open_file_exac('ExAC_HC.0.3.final.vep.gene.caf.gz')    
+#   }
+  caf = read.delim('gene.caf.gz', header=T)
+  print('Done!')
+  
+  caf_pops = toupper(pops)
+  pop_cafs = paste0(toupper(pops), '_CAF')
+  maxes = t(apply(caf, 1, function(x) { 
+    c(max(as.numeric(x[pop_cafs])),
+      caf_pops[which.max(as.numeric(x[pop_cafs]))],
+      mean(as.numeric(x[pop_cafs])), 
+      median(as.numeric(x[pop_cafs])),
+      min(as.numeric(x[pop_cafs]))
+      )
+  }))
+  
+  caf$max_caf = as.numeric(maxes[,1])
+  caf$max_caf_pop = maxes[,2]
+  caf$average_caf = as.numeric(maxes[,3])
+  caf$median_caf = as.numeric(maxes[,4])
+  caf$min_caf = as.numeric(maxes[,5])
+  caf$delta_max = caf$max_caf/caf$average_caf
+  return(caf)
 }
 
 load_gene_lists = function() {
